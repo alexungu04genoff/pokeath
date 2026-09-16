@@ -6,6 +6,8 @@ If a task does not explicitly request a historical prototype, always use **`outp
 | --- | --- |
 | Printable production quadrants | `output/CURRENT/boards/<board>/` |
 | Universal tile fit coupon | `output/CURRENT/boards/fit_test/` |
+| Parameterized tile test exports | `output/CURRENT/tiles/` and `src/tiles/` |
+| Tile generator guide | `docs/UNIVERSAL_TILE_GENERATOR.md` |
 | Current physical lock test | `output/CURRENT/prototype/sloped_lap_2x1/` |
 | Blender reference geometry | `output/CURRENT/blender/START_HERE.obj` and `output/CURRENT/blender/boards/` |
 | Canonical generator and validation | `src/chassis/` |

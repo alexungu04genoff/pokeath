@@ -1,0 +1,85 @@
+{
+  "generated": [
+    {
+      "category": "blank-custom",
+      "clearance_per_side_mm": 0.15,
+      "recessed_icon_area": false,
+      "embossed_icon_area": false,
+      "engraved_text": null,
+      "engraved_icon": null,
+      "hidden_special_back_marker": false,
+      "socket_size_mm": 36.0,
+      "socket_corner_radius_mm": 2.0,
+      "base_tile_thickness_mm": 2.8,
+      "tile_width_mm": 35.7,
+      "a1_compatible": true,
+      "file": "output/CURRENT/tiles/examples/blank_example_blank-custom_clearance_0.15mm.stl",
+      "xyz_mm": [
+        35.7,
+        35.7,
+        2.8
+      ]
+    },
+    {
+      "category": "blank-custom",
+      "clearance_per_side_mm": 0.2,
+      "recessed_icon_area": false,
+      "embossed_icon_area": false,
+      "engraved_text": null,
+      "engraved_icon": null,
+      "hidden_special_back_marker": false,
+      "socket_size_mm": 36.0,
+      "socket_corner_radius_mm": 2.0,
+      "base_tile_thickness_mm": 2.8,
+      "tile_width_mm": 35.6,
+      "a1_compatible": true,
+      "file": "output/CURRENT/tiles/examples/blank_example_blank-custom_clearance_0.20mm.stl",
+      "xyz_mm": [
+        35.6,
+        35.6,
+        2.8
+      ]
+    },
+    {
+      "category": "blank-custom",
+      "clearance_per_side_mm": 0.25,
+      "recessed_icon_area": false,
+      "embossed_icon_area": false,
+      "engraved_text": null,
+      "engraved_icon": null,
+      "hidden_special_back_marker": false,
+      "socket_size_mm": 36.0,
+      "socket_corner_radius_mm": 2.0,
+      "base_tile_thickness_mm": 2.8,
+      "tile_width_mm": 35.5,
+      "a1_compatible": true,
+      "file": "output/CURRENT/tiles/examples/blank_example_blank-custom_clearance_0.25mm.stl",
+      "xyz_mm": [
+        35.5,
+        35.5,
+        2.8
+      ]
+    },
+    {
+      "category": "blank-custom",
+      "clearance_per_side_mm": 0.3,
+      "recessed_icon_area": false,
+      "embossed_icon_area": false,
+      "engraved_text": null,
+      "engraved_icon": null,
+      "hidden_special_back_marker": false,
+      "socket_size_mm": 36.0,
+      "socket_corner_radius_mm": 2.0,
+      "base_tile_thickness_mm": 2.8,
+      "tile_width_mm": 35.4,
+      "a1_compatible": true,
+      "file": "output/CURRENT/tiles/examples/blank_example_blank-custom_clearance_0.30mm.stl",
+      "xyz_mm": [
+        35.4,
+        35.4,
+        2.8
+      ]
+    }
+  ],
+  "clearance_selected": false
+}
