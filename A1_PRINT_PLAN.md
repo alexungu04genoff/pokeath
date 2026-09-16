@@ -16,18 +16,18 @@ Footprint: **234.400 × 107.400 mm**. Margins L/R/F/B: **10.800 / 10.800 / 74.30
 | --- | ---: | ---: | --- |
 | Prototype Part A | 1 | 47.800 × 64.000 | Baked 0°; no additional rotation |
 | Prototype Part B | 1 | 47.800 × 64.000 | Baked 0°; no additional rotation |
-| Tile 0.15mm mm/side 1_dots | 1 | 35.700 × 35.700 | Baked 0°; no additional rotation |
-| Tile 0.20mm mm/side 2_dots | 1 | 35.600 × 35.600 | Baked 0°; no additional rotation |
-| Tile 0.25mm mm/side 3_dots | 1 | 35.500 × 35.500 | Baked 0°; no additional rotation |
-| Tile 0.30mm mm/side 4_dots | 1 | 35.400 × 35.400 | Baked 0°; no additional rotation |
-| Pin 4mm clearance_0.15 shaft 4.10 | 1 | 12.000 × 8.000 | Baked 0°; no additional rotation |
-| Pin 4mm clearance_0.20 shaft 4.00 | 1 | 12.000 × 8.000 | Baked 0°; no additional rotation |
-| Pin 4mm clearance_0.25 shaft 3.90 | 1 | 12.000 × 8.000 | Baked 0°; no additional rotation |
-| Pin 4mm clearance_0.30 shaft 3.80 | 1 | 12.000 × 8.000 | Baked 0°; no additional rotation |
-| Pin 5mm clearance_0.15 shaft 5.10 | 1 | 12.000 × 8.000 | Baked 0°; no additional rotation |
-| Pin 5mm clearance_0.20 shaft 5.00 | 1 | 12.000 × 8.000 | Baked 0°; no additional rotation |
-| Pin 5mm clearance_0.25 shaft 4.90 | 1 | 12.000 × 8.000 | Baked 0°; no additional rotation |
-| Pin 5mm clearance_0.30 shaft 4.80 | 1 | 12.000 × 8.000 | Baked 0°; no additional rotation |
+| Tile 0.15mm / 1 dot | 1 | 35.700 × 35.700 | Baked 0°; no additional rotation |
+| Tile 0.20mm / 2 dot | 1 | 35.600 × 35.600 | Baked 0°; no additional rotation |
+| Tile 0.25mm / 3 dot | 1 | 35.500 × 35.500 | Baked 0°; no additional rotation |
+| Tile 0.30mm / 4 dot | 1 | 35.400 × 35.400 | Baked 0°; no additional rotation |
+| Pin 4mm / 0.15 clearance / 4.10 shaft | 1 | 12.000 × 8.000 | Baked 0°; no additional rotation |
+| Pin 4mm / 0.20 clearance / 4.00 shaft | 1 | 12.000 × 8.000 | Baked 0°; no additional rotation |
+| Pin 4mm / 0.25 clearance / 3.90 shaft | 1 | 12.000 × 8.000 | Baked 0°; no additional rotation |
+| Pin 4mm / 0.30 clearance / 3.80 shaft | 1 | 12.000 × 8.000 | Baked 0°; no additional rotation |
+| Pin 5mm / 0.15 clearance / 5.10 shaft | 1 | 12.000 × 8.000 | Baked 0°; no additional rotation |
+| Pin 5mm / 0.20 clearance / 5.00 shaft | 1 | 12.000 × 8.000 | Baked 0°; no additional rotation |
+| Pin 5mm / 0.25 clearance / 4.90 shaft | 1 | 12.000 × 8.000 | Baked 0°; no additional rotation |
+| Pin 5mm / 0.30 clearance / 4.80 shaft | 1 | 12.000 × 8.000 | Baked 0°; no additional rotation |
 
 ## Plate 02: Canonical fit tests and sample production keys
 
