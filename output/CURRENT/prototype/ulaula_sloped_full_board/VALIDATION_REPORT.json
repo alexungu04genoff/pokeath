@@ -1,6 +1,8 @@
 {
-  "label": "EXPERIMENTAL / NOT PRODUCTION / PHYSICAL TEST PENDING",
+  "label": "DIGITALLY VALIDATED EXPERIMENT / PHYSICAL TEST STILL REQUIRED",
   "board": "Ulaula",
+  "passed": true,
+  "physical_approval": false,
   "canonical_gameplay_dimensions": {
     "pitch": 38,
     "socket": [
@@ -17,46 +19,178 @@
     {
       "quadrant": 1,
       "xyz_mm": [
-        200.694,
-        175.257,
+        201.285,
+        175.961,
         10.0
       ],
-      "max_xy_mm": 200.694,
+      "max_xy_mm": 201.28460693359375,
       "fits_A1": true,
-      "print_rotation_degrees": 5.18
+      "below_248_mm": true,
+      "watertight_manifold_single_solid": true,
+      "print_rotation_degrees": 5.78,
+      "assembly_to_print_transform": [
+        [
+          0.9949159235187879,
+          0.10070901215262446,
+          0.0,
+          -51.28426633114799
+        ],
+        [
+          -0.10070901215262446,
+          0.9949159235187879,
+          0.0,
+          -28.618641180935256
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "socket_floor_check": {
+        "passed": true,
+        "xy_tolerance_mm": 0.001,
+        "symmetric_difference_mm2": 0.0030053635566415324
+      }
     },
     {
       "quadrant": 2,
       "xyz_mm": [
-        182.865,
-        182.909,
+        182.385,
+        182.416,
         10.0
       ],
-      "max_xy_mm": 182.909,
+      "max_xy_mm": 182.4164276123047,
       "fits_A1": true,
-      "print_rotation_degrees": 64.58
+      "below_248_mm": true,
+      "watertight_manifold_single_solid": true,
+      "print_rotation_degrees": 63.120000000000005,
+      "assembly_to_print_transform": [
+        [
+          0.4521233856911507,
+          0.8919554047771509,
+          0.0,
+          -200.4363353852689
+        ],
+        [
+          -0.8919554047771509,
+          0.4521233856911507,
+          0.0,
+          298.47862292927886
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "socket_floor_check": {
+        "passed": true,
+        "xy_tolerance_mm": 0.001,
+        "symmetric_difference_mm2": 0.0019599023426102595
+      }
     },
     {
       "quadrant": 3,
       "xyz_mm": [
-        205.135,
-        205.166,
+        206.634,
+        206.606,
         10.0
       ],
-      "max_xy_mm": 205.166,
+      "max_xy_mm": 206.63360595703125,
       "fits_A1": true,
-      "print_rotation_degrees": 0.14
+      "below_248_mm": true,
+      "watertight_manifold_single_solid": true,
+      "print_rotation_degrees": 0.0,
+      "assembly_to_print_transform": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -31.512409210205078
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -199.2152099609375
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "socket_floor_check": {
+        "passed": true,
+        "xy_tolerance_mm": 0.001,
+        "symmetric_difference_mm2": 0.009265626935418584
+      }
     },
     {
       "quadrant": 4,
       "xyz_mm": [
-        207.16,
-        207.142,
+        206.413,
+        206.434,
         10.0
       ],
-      "max_xy_mm": 207.16,
+      "max_xy_mm": 206.4344024658203,
       "fits_A1": true,
-      "print_rotation_degrees": 89.18
+      "below_248_mm": true,
+      "watertight_manifold_single_solid": true,
+      "print_rotation_degrees": 89.94,
+      "assembly_to_print_transform": [
+        [
+          0.0010471973597998346,
+          0.9999994516886945,
+          0.0,
+          -199.65886543867907
+        ],
+        [
+          -0.9999994516886945,
+          0.0010471973597998346,
+          0.0,
+          434.5553041282427
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "socket_floor_check": {
+        "passed": true,
+        "xy_tolerance_mm": 0.001,
+        "symmetric_difference_mm2": 0.007625166710739617
+      }
     }
   ],
   "joints": [
@@ -66,13 +200,36 @@
         3
       ],
       "pin_center_assembly_mm": [
-        38.512,
-        204.015
+        36.512410053589434,
+        204.01520912547525
       ],
-      "pin_holes_aligned": true,
-      "final_collision_mm3": 93.11909454183122,
-      "assembly_path_samples": 33,
-      "max_path_collision_mm3": 93.11909454183122
+      "before_collision_mm3": 93.11909454183122,
+      "final_collision_mm3": 0.0,
+      "coaxial_only_at_zero_relative_xy_translation": true,
+      "bore_diameter_mm": 4.4,
+      "shaft_diameter_mm": 4.0,
+      "continuous_vertical_pin_checks": [
+        {
+          "passed": true,
+          "overlap_bound_mm3": 0.0,
+          "prisms_checked": 0
+        },
+        {
+          "passed": true,
+          "overlap_bound_mm3": 0.0,
+          "prisms_checked": 0
+        },
+        {
+          "passed": true,
+          "overlap_bound_mm3": 3.194025983522202e-16,
+          "prisms_checked": 0
+        },
+        {
+          "passed": true,
+          "overlap_bound_mm3": 0.0,
+          "prisms_checked": 0
+        }
+      ]
     },
     {
       "owners": [
@@ -80,13 +237,36 @@
         4
       ],
       "pin_center_assembly_mm": [
-        427.764,
-        204.015
+        429.7641503264186,
+        204.01520912547525
       ],
-      "pin_holes_aligned": true,
-      "final_collision_mm3": 447.3814028174135,
-      "assembly_path_samples": 33,
-      "max_path_collision_mm3": 447.3814028174135
+      "before_collision_mm3": 447.3814028174135,
+      "final_collision_mm3": 0.0,
+      "coaxial_only_at_zero_relative_xy_translation": true,
+      "bore_diameter_mm": 4.4,
+      "shaft_diameter_mm": 4.0,
+      "continuous_vertical_pin_checks": [
+        {
+          "passed": true,
+          "overlap_bound_mm3": 0.0,
+          "prisms_checked": 0
+        },
+        {
+          "passed": true,
+          "overlap_bound_mm3": 0.0,
+          "prisms_checked": 0
+        },
+        {
+          "passed": true,
+          "overlap_bound_mm3": 0.0,
+          "prisms_checked": 0
+        },
+        {
+          "passed": true,
+          "overlap_bound_mm3": 9.98631582196535e-16,
+          "prisms_checked": 0
+        }
+      ]
     },
     {
       "owners": [
@@ -94,18 +274,275 @@
         4
       ],
       "pin_center_assembly_mm": [
-        233.346,
-        398.821
+        233.34600760456271,
+        400.8213891741633
       ],
-      "pin_holes_aligned": true,
-      "final_collision_mm3": 93.20532924275115,
-      "assembly_path_samples": 33,
-      "max_path_collision_mm3": 93.20532924275115
+      "before_collision_mm3": 93.20532924275115,
+      "final_collision_mm3": 0.0,
+      "coaxial_only_at_zero_relative_xy_translation": true,
+      "bore_diameter_mm": 4.4,
+      "shaft_diameter_mm": 4.0,
+      "continuous_vertical_pin_checks": [
+        {
+          "passed": true,
+          "overlap_bound_mm3": 0.0,
+          "prisms_checked": 0
+        },
+        {
+          "passed": true,
+          "overlap_bound_mm3": 0.0,
+          "prisms_checked": 0
+        },
+        {
+          "passed": true,
+          "overlap_bound_mm3": 3.2908246440366273e-16,
+          "prisms_checked": 0
+        },
+        {
+          "passed": true,
+          "overlap_bound_mm3": 5.793434308676293e-16,
+          "prisms_checked": 0
+        }
+      ]
     }
   ],
-  "assembly_path_passed": false,
-  "support_requirements": "45\u00b0 wedges: near-support-free prediction; inspect 4.4 mm bore bridges. Pins head-down/shaft-up: support-free prediction.",
+  "all_six_seated_pairs": [
+    {
+      "owners": [
+        1,
+        2
+      ],
+      "final_collision_mm3": 0.0
+    },
+    {
+      "owners": [
+        1,
+        3
+      ],
+      "final_collision_mm3": 0.0
+    },
+    {
+      "owners": [
+        1,
+        4
+      ],
+      "final_collision_mm3": 0.0
+    },
+    {
+      "owners": [
+        2,
+        3
+      ],
+      "final_collision_mm3": 0.0
+    },
+    {
+      "owners": [
+        2,
+        4
+      ],
+      "final_collision_mm3": 0.0
+    },
+    {
+      "owners": [
+        3,
+        4
+      ],
+      "final_collision_mm3": 0.0
+    }
+  ],
+  "assembly_path_passed": true,
+  "valid_assembly_order": [
+    1,
+    3,
+    4,
+    2
+  ],
+  "valid_order_count": 8,
+  "assembly_steps": [
+    {
+      "quadrant": 3,
+      "outward_unit_vector": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "start_offset_mm": [
+        0.0,
+        600.0,
+        0.0
+      ],
+      "checks": [
+        {
+          "installed_quadrant": 1,
+          "passed": true,
+          "overlap_bound_mm3": 0.0,
+          "prisms_checked": 1040
+        }
+      ],
+      "passed": true
+    },
+    {
+      "quadrant": 4,
+      "outward_unit_vector": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start_offset_mm": [
+        600.0,
+        0.0,
+        0.0
+      ],
+      "checks": [
+        {
+          "installed_quadrant": 1,
+          "passed": true,
+          "overlap_bound_mm3": 0.0,
+          "prisms_checked": 0
+        },
+        {
+          "installed_quadrant": 3,
+          "passed": true,
+          "overlap_bound_mm3": 0.0,
+          "prisms_checked": 653
+        }
+      ],
+      "passed": true
+    },
+    {
+      "quadrant": 2,
+      "outward_unit_vector": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "start_offset_mm": [
+        0.0,
+        -600.0,
+        0.0
+      ],
+      "checks": [
+        {
+          "installed_quadrant": 1,
+          "passed": true,
+          "overlap_bound_mm3": 0.0,
+          "prisms_checked": 0
+        },
+        {
+          "installed_quadrant": 3,
+          "passed": true,
+          "overlap_bound_mm3": 0.0,
+          "prisms_checked": 100
+        },
+        {
+          "installed_quadrant": 4,
+          "passed": true,
+          "overlap_bound_mm3": 0.0,
+          "prisms_checked": 939
+        }
+      ],
+      "passed": true
+    }
+  ],
+  "collision_tolerance_mm3": 0.001,
+  "path_method": "Continuous leading-triangle swept prisms plus initial solid; aggregate intersection upper bound <= tolerance. Eight planar directions per step, 600 mm free start, all 24 orders. Actual float32 STLs transformed back to assembly coordinates.",
+  "pin_path_method": "Same continuous sweep, 15 mm vertical stroke, against all four quadrants; pins inserted only after all quadrants seat.",
+  "joint_changes": {
+    "pin_center_outward_shift_mm": 2,
+    "maximum_local_outward_projection_mm": 7,
+    "lap_angle_degrees": 45,
+    "vertical_face_gap_mm": 0.4,
+    "local_relief_buffer_mm": 0.25
+  },
+  "gameplay_and_recess_masks_clear_of_modifications": true,
+  "chassis_identical_outside_local_joint_regions": true,
   "canonical_production_hashes_unchanged": true,
-  "old_snap_lock_removed_from_experimental_rebuild": true,
-  "physical_approval": false
+  "sloped_lap_2x1_hashes_unchanged": true,
+  "frozen_sha256": {
+    "output/CURRENT/boards/Akala/assembled_top.png": "a8294d8e82ea419d352c8c94c3c255792472c5819635ba33235bf4d5632bb1e8",
+    "output/CURRENT/boards/Akala/assembled_underside.png": "75daa67ae7e847e2e40bbee67ba668f0c529c968a1d4a4b67981c72e74f8089b",
+    "output/CURRENT/boards/Akala/quadrant_1.stl": "b561beb432bd83bc3251803e0fa6479ffce8d4cf3f836e0582c48de987abde98",
+    "output/CURRENT/boards/Akala/quadrant_2.stl": "547e0b372ae88954d0c06f3bcded40325162cd62d877157809186421a863ec74",
+    "output/CURRENT/boards/Akala/quadrant_3.stl": "9ed50e06537e4017f15628481de18d91356b0c28eae28487cf848907f070ea15",
+    "output/CURRENT/boards/Akala/quadrant_4.stl": "1a4ec23434b04b54052cce7370cf3ae32269c059ab2ca85d582f4af0b0cd4fcc",
+    "output/CURRENT/boards/Akala/underside_rails_exposed.png": "18845977f878e229778f1fbee3943d65171f2f024f2bf30db521055f0d77d6b1",
+    "output/CURRENT/boards/all_boards_top_and_underside.png": "d3cc9b79a5a02849b752a3462b3aa950b8770b19dbc4f9aaaea381e36588eac1",
+    "output/CURRENT/boards/chassis_standard.json": "0f8893b7f63beeb1cf5f3c2638997c0d2ebde77c5c4e31f0f45806267b07c957",
+    "output/CURRENT/boards/final_geometry_plan.png": "5e0b77ebb1d44120a84e187e7fd343dbd8d34ad2b67e19cb683bcbd3bbd1c0b6",
+    "output/CURRENT/boards/finished_stl_bounds.json": "c1bffdf1405ded445c5212edc63d9946b0aef2456e797b2eca6f9761367e5732",
+    "output/CURRENT/boards/fit_test/blank_test_tile_0.15mm_per_side_1_dots.stl": "21ffbc4555a6b106258b92d0dc22d53049fcf15999b69f2fbf7459eb9b29e3ac",
+    "output/CURRENT/boards/fit_test/blank_test_tile_0.20mm_per_side_2_dots.stl": "ea995f511c618fcbb4fd0f29f8f6277364a67bdb24674dce2f3bfc2b78bf964d",
+    "output/CURRENT/boards/fit_test/blank_test_tile_0.25mm_per_side_3_dots.stl": "5ce550f85009213bd711f6ae1b4f17004116c6c92255433f8197f8e9340efed0",
+    "output/CURRENT/boards/fit_test/blank_test_tile_0.30mm_per_side_4_dots.stl": "9e202b3f6a3d63aa976ed348812bb3505f21dd94979f06e6ea38dad91e468fdc",
+    "output/CURRENT/boards/fit_test/four_identical_socket_coupon.stl": "ff5553649b02fe3a346e58f4ccd1414f87b4f17ea23d571ef6b778b9f37e5712",
+    "output/CURRENT/boards/fit_test/PRINT_FIRST.md": "192013accaae41016f401b077b89499f9242b0377c0e4ba61ff07c40c6976e13",
+    "output/CURRENT/boards/fit_test_lock_left.stl": "1b97fa251ca668f6349479736c3e393be794f5ab301cc1aa4d85366d06b013c0",
+    "output/CURRENT/boards/fit_test_lock_right.stl": "6242def50769ddeb739d14ba5bd7f0ba687adc3107475ed8d5fdbc3c72b0f4e0",
+    "output/CURRENT/boards/independent_validation.json": "19ad8011e69f47accd1cb63121163a887eab8c187332f63cdf9f046c04470821",
+    "output/CURRENT/boards/Melemele/assembled_top.png": "05d044338f3a4bdd31a3f432f8694d61ee554b2dcab33230b2e363589aec5f71",
+    "output/CURRENT/boards/Melemele/assembled_underside.png": "744c60f4095d2bb358210233aa85b7644132702851224dd3e5df0fdddaaf4996",
+    "output/CURRENT/boards/Melemele/quadrant_1.stl": "3548f13fbf043064541066e6638fb4bab62528c5223fdfc7672ad5d46233ded0",
+    "output/CURRENT/boards/Melemele/quadrant_2.stl": "902689e88a0bd2b8fec8fb713ed78829acfd53042f6a97cc5bc5a4bedf08bf8e",
+    "output/CURRENT/boards/Melemele/quadrant_3.stl": "6ff1fc3c0f99b8180e9059bb286d8baef9fc4844593fbac6490f0487b2099cf8",
+    "output/CURRENT/boards/Melemele/quadrant_4.stl": "9d867e321b36f86dd5cab8482e63b0567782c27f148c58df84d24e14b1e0c7f0",
+    "output/CURRENT/boards/Melemele/underside_rails_exposed.png": "b5eaf9f049fbef8da6756d16e78cfe072d1e68c01164ffd748643e39303c553c",
+    "output/CURRENT/boards/Poni/assembled_top.png": "55c8e4b6bc1ded7f08e2ecb526f313b41200fcdab30f48c9b3757eb59a25725d",
+    "output/CURRENT/boards/Poni/assembled_underside.png": "228454d61358d46bcbec620812dbf7a2a32895e0cb06c6af501d3e8f9ca98e93",
+    "output/CURRENT/boards/Poni/quadrant_1.stl": "aa8fb3b9df98d92199e7a0c5a9923d782f70543b1e4566557ef2db5aad6bb736",
+    "output/CURRENT/boards/Poni/quadrant_2.stl": "435ccd8f9627d2aeacbdef5282e60d34d887e7a82d62b892457564ff83ff3178",
+    "output/CURRENT/boards/Poni/quadrant_3.stl": "7f945b5bc00dceb813695fe99bf4157f040fe325684e09c89706ee558f391f4f",
+    "output/CURRENT/boards/Poni/quadrant_4.stl": "cca9a5d262c6146bb2ca69746669db79eeca6c511fcf26bfa9f155c23d9c83c1",
+    "output/CURRENT/boards/Poni/underside_rails_exposed.png": "a45bd09f16cd426245fde03350ed789881820a9c154c9250c6a068d195efbc34",
+    "output/CURRENT/boards/README.md": "f6afcecbb412dc091293723e66a021785cb17510ee44fa15d30a0d3ee848c8ec",
+    "output/CURRENT/boards/SIZING_REPORT.md": "39335f7448c9064c6018df2dd96f2659a64bb01358c7d71dea68fc6df408785f",
+    "output/CURRENT/boards/snap_key_print_3_per_board.stl": "b2cfbed62f03b26f484676d4d195631007f6b07d2baa5d648a2b4b69f5d2a254",
+    "output/CURRENT/boards/Ulaula/assembled_top.png": "460efd7326b0b50f92507474dead658416186b9731bd03257d13ebb47d81a5cb",
+    "output/CURRENT/boards/Ulaula/assembled_underside.png": "45ec61d7f426ddc0d0e961b05a132f73e362a95e1a2a8b1c7f7356461a9fa72c",
+    "output/CURRENT/boards/Ulaula/quadrant_1.stl": "e9bb2f1e1c1821f9323cae283edd0a750e38ad712e15a74ae33c318e0bd7779c",
+    "output/CURRENT/boards/Ulaula/quadrant_2.stl": "5937e3fc77d2dfa51ecb1a29b80677a2bd645d7f6bb920ea3e0209380bc2c78d",
+    "output/CURRENT/boards/Ulaula/quadrant_3.stl": "1bfc222e4ac6bfef0845b86b39d717200ea322218b1cec342c9b609736ca74fe",
+    "output/CURRENT/boards/Ulaula/quadrant_4.stl": "1eb7a471023413782d6cc2e90131ac4077be9cfb5e7235a4c60d2321b680746f",
+    "output/CURRENT/boards/Ulaula/underside_rails_exposed.png": "3f9a049857f0a1fe0650426247d09cf4ac5ae8b273f344831b6b5dd8a0410ab8",
+    "output/CURRENT/prototype/sloped_lap_2x1/assembled_top.png": "d691b67647eaf300c21547dd173c81f39ee70ffad0ee04b96caeaf848d69bf72",
+    "output/CURRENT/prototype/sloped_lap_2x1/assembled_underside.png": "f7dd7249c3a30a8e8cddc2d6240bbbb6d5913e9efb12978b3bcb25cf73aa2f64",
+    "output/CURRENT/prototype/sloped_lap_2x1/assembly_sequence_sections.png": "486aa09ae3fd1c26b1e7e13eca2f4e3daa419a96b5a33f09e3f06162a27e3d91",
+    "output/CURRENT/prototype/sloped_lap_2x1/exploded_view.png": "8aa1b0eca286ed6413ee10813000040030d40a6ae4194e06962d42c7454ee04a",
+    "output/CURRENT/prototype/sloped_lap_2x1/one_plate_layout.png": "b9cd941acda6cc73068b4db81d3f2377584c1ea23dae72a6d0d5e440bc8d266f",
+    "output/CURRENT/prototype/sloped_lap_2x1/one_plate_validation.json": "e8d17d75d5de8fb3a018a448e39c50a935ad72a42acafafb945596339c4ef6ca",
+    "output/CURRENT/prototype/sloped_lap_2x1/pin_and_seam_cross_section.png": "486aa09ae3fd1c26b1e7e13eca2f4e3daa419a96b5a33f09e3f06162a27e3d91",
+    "output/CURRENT/prototype/sloped_lap_2x1/pin_lug_dimensions.png": "b461a99f64a5573df6dd99e3f2cb529b3fa95cfa00db12d229179ef63cfce320",
+    "output/CURRENT/prototype/sloped_lap_2x1/pins/T_pin_4mm_family_clearance_0.15_shaft_4.10.stl": "6d5a8d34ece23d49f47e4960a60f60e82fa9803199d56fe3afd2691b95d989dc",
+    "output/CURRENT/prototype/sloped_lap_2x1/pins/T_pin_4mm_family_clearance_0.20_shaft_4.00.stl": "34e2b7c23299d96d13cb2492aee0bc99eec61e8acaa5b36cc2fd3f61ace07aaf",
+    "output/CURRENT/prototype/sloped_lap_2x1/pins/T_pin_4mm_family_clearance_0.25_shaft_3.90.stl": "ab8641f8b22cbc0f8361560be97de029c36cba78292af494c27cab239128d439",
+    "output/CURRENT/prototype/sloped_lap_2x1/pins/T_pin_4mm_family_clearance_0.30_shaft_3.80.stl": "01b17e7386e2ef101b10513e743903d8f5cfff099aac7c5cde8a26c1c94453e1",
+    "output/CURRENT/prototype/sloped_lap_2x1/pins/T_pin_5mm_family_clearance_0.15_shaft_5.10.stl": "4ad97726bc275e497067482ef70d77347ec2ffddf3fb13a9187b0fec21a17a40",
+    "output/CURRENT/prototype/sloped_lap_2x1/pins/T_pin_5mm_family_clearance_0.20_shaft_5.00.stl": "7f741a15f142c2c9c62c417cc4b80025266cdcd95b0b6157db818c2962a46dc4",
+    "output/CURRENT/prototype/sloped_lap_2x1/pins/T_pin_5mm_family_clearance_0.25_shaft_4.90.stl": "dd532b8ebc220fc5ffee992e624f2b28edb0852c97a853285e8f12a241e42e1f",
+    "output/CURRENT/prototype/sloped_lap_2x1/pins/T_pin_5mm_family_clearance_0.30_shaft_4.80.stl": "66e58866966803d7899d9dbf1a0423049b2408ad0fae8acadf1efb3f2d4511a1",
+    "output/CURRENT/prototype/sloped_lap_2x1/PLACEMENT_REPORT.md": "247fffa43fbda6aa514e306c79667d6e7ab6eed093d1d49dbd5024fd76e3150e",
+    "output/CURRENT/prototype/sloped_lap_2x1/placement_validation.json": "b644ecd5328061c2eee722acca0b525d4514ce8d7c6ada4b8c2c3eeafa9cb7e5",
+    "output/CURRENT/prototype/sloped_lap_2x1/production_perspective.png": "163a672074dc423c7de9cc451b80798d57be20e003202203e3d30da55c9f6ffa",
+    "output/CURRENT/prototype/sloped_lap_2x1/production_support_diagnostic.png": "3d0cbfff25c20d053bfe37bd397143730b1590f004957a0937912ac3254f7e2f",
+    "output/CURRENT/prototype/sloped_lap_2x1/production_top.png": "4af1fab9ee4b6c78a44edfc2f86c70b9bfdc7e2cb6ea348f72c2cf98732acf1b",
+    "output/CURRENT/prototype/sloped_lap_2x1/prototype_2x1_ALL_COMPONENTS_A1.stl": "b1b53c08d7a0d78d722a0cdf11a02adc9942a48ecf462bbbb89de03d2cf60550",
+    "output/CURRENT/prototype/sloped_lap_2x1/prototype_2x1_part_A.stl": "84f43512a01ea60707d800dfb4d3516a22b329a816592c0d2a66b5a3f91ea3f3",
+    "output/CURRENT/prototype/sloped_lap_2x1/prototype_2x1_part_B.stl": "920ad894a3356e26de83647521e05d9d6a47bd48cf6f4baab2ebae13b4a44b42",
+    "output/CURRENT/prototype/sloped_lap_2x1/prototype_perspective.png": "d6f752b00717db9e0ce848ac781bdf78c10d47bed00593e7f73cfe95e6e332b9",
+    "output/CURRENT/prototype/sloped_lap_2x1/prototype_support_diagnostic.png": "128b4a338d38ee65df0d059bd5a306552c24037338ccdc87928070f31ee419fd",
+    "output/CURRENT/prototype/sloped_lap_2x1/prototype_top.png": "19b3cf8dc13d08474da02b54985f18640488535b1e9747b5e5d3b4bb8d128e79",
+    "output/CURRENT/prototype/sloped_lap_2x1/README.md": "55469e3b20db7a5c4f735a1a60927e7447df7e0e50527be34378238749bafbe1",
+    "output/CURRENT/prototype/sloped_lap_2x1/tiles/blank_test_tile_0.15mm_per_side_1_dots.stl": "54e091c1224793a7357c7aad53a8334e36225158f1f6654a24f5cc2116eefc5b",
+    "output/CURRENT/prototype/sloped_lap_2x1/tiles/blank_test_tile_0.20mm_per_side_2_dots.stl": "fd8a4c66a825a24ea36578bae551e63643d023272460da064b44cd7c358b180a",
+    "output/CURRENT/prototype/sloped_lap_2x1/tiles/blank_test_tile_0.25mm_per_side_3_dots.stl": "9c726265f924b1f6d48a908b6404a6f6691a66dea99fa53988275c4ebca3365a",
+    "output/CURRENT/prototype/sloped_lap_2x1/tiles/blank_test_tile_0.30mm_per_side_4_dots.stl": "5025afce1978d189a48292152c2fac2fe1a70a9f15d2f755890f3b6480a88bfd",
+    "output/CURRENT/prototype/sloped_lap_2x1/validation.json": "3f33c06026bf8d541a7328dc07e433e3465ef725ffa5edbfb53228277634bc86",
+    "src/prototypes/build_sloped_lap_prototype.py": "819ba9b3a3eb2304390faad9cd5001f87df3f48c60f56f5c2feb9c7b3ce11de3"
+  },
+  "support_requirements": "Flat base down, sockets up. 45 degree ramps; local 4.4 mm bore bridges require slicer/physical inspection with 0.4 mm nozzle. Pins flat head down. No sliced or physical support certification.",
+  "warnings": [
+    "Experimental only; no production approval or propagation.",
+    "Physical PLA fit, thin tips, bearing strength and wear untested.",
+    "Smooth pins are gravity-retained and not captive on inversion.",
+    "The search certifies listed straight planar paths; it does not exhaust all possible motion planning."
+  ]
 }
