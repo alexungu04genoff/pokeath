@@ -1,0 +1,321 @@
+{
+  "passed": true,
+  "files": [
+    {
+      "file": "prototype_2x1_part_A.stl",
+      "xyz_mm": [
+        48.0,
+        48.0,
+        10.0
+      ],
+      "watertight_manifold": true,
+      "fits_A1": true
+    },
+    {
+      "file": "prototype_2x1_part_B.stl",
+      "xyz_mm": [
+        48.0,
+        48.0,
+        10.0
+      ],
+      "watertight_manifold": true,
+      "fits_A1": true
+    },
+    {
+      "file": "pins\\T_pin_4mm_clearance_0.15_shaft_4.10.stl",
+      "xyz_mm": [
+        10.0,
+        8.0,
+        4.0
+      ],
+      "watertight_manifold": true,
+      "fits_A1": true
+    },
+    {
+      "file": "pins\\T_pin_4mm_clearance_0.20_shaft_4.00.stl",
+      "xyz_mm": [
+        10.0,
+        8.0,
+        4.0
+      ],
+      "watertight_manifold": true,
+      "fits_A1": true
+    },
+    {
+      "file": "pins\\T_pin_4mm_clearance_0.25_shaft_3.90.stl",
+      "xyz_mm": [
+        10.0,
+        8.0,
+        4.0
+      ],
+      "watertight_manifold": true,
+      "fits_A1": true
+    },
+    {
+      "file": "pins\\T_pin_4mm_clearance_0.30_shaft_3.80.stl",
+      "xyz_mm": [
+        10.0,
+        8.0,
+        4.0
+      ],
+      "watertight_manifold": true,
+      "fits_A1": true
+    },
+    {
+      "file": "pins\\T_pin_5mm_clearance_0.15_shaft_5.10.stl",
+      "xyz_mm": [
+        10.0,
+        8.0,
+        4.0
+      ],
+      "watertight_manifold": true,
+      "fits_A1": true
+    },
+    {
+      "file": "pins\\T_pin_5mm_clearance_0.20_shaft_5.00.stl",
+      "xyz_mm": [
+        10.0,
+        8.0,
+        4.0
+      ],
+      "watertight_manifold": true,
+      "fits_A1": true
+    },
+    {
+      "file": "pins\\T_pin_5mm_clearance_0.25_shaft_4.90.stl",
+      "xyz_mm": [
+        10.0,
+        8.0,
+        4.0
+      ],
+      "watertight_manifold": true,
+      "fits_A1": true
+    },
+    {
+      "file": "pins\\T_pin_5mm_clearance_0.30_shaft_4.80.stl",
+      "xyz_mm": [
+        10.0,
+        8.0,
+        4.0
+      ],
+      "watertight_manifold": true,
+      "fits_A1": true
+    },
+    {
+      "file": "tiles\\blank_test_tile_0.15mm_per_side_1_dots.stl",
+      "xyz_mm": [
+        35.7,
+        35.7,
+        2.8
+      ],
+      "watertight_manifold": true,
+      "fits_A1": true
+    },
+    {
+      "file": "tiles\\blank_test_tile_0.20mm_per_side_2_dots.stl",
+      "xyz_mm": [
+        35.6,
+        35.6,
+        2.8
+      ],
+      "watertight_manifold": true,
+      "fits_A1": true
+    },
+    {
+      "file": "tiles\\blank_test_tile_0.25mm_per_side_3_dots.stl",
+      "xyz_mm": [
+        35.5,
+        35.5,
+        2.8
+      ],
+      "watertight_manifold": true,
+      "fits_A1": true
+    },
+    {
+      "file": "tiles\\blank_test_tile_0.30mm_per_side_4_dots.stl",
+      "xyz_mm": [
+        35.4,
+        35.4,
+        2.8
+      ],
+      "watertight_manifold": true,
+      "fits_A1": true
+    }
+  ],
+  "variants": [
+    {
+      "family_mm": 4.0,
+      "shaft_mm": 4.1,
+      "hole_mm": 4.4,
+      "clearance_per_side_mm": 0.15,
+      "head_mm": [
+        10,
+        8,
+        1
+      ],
+      "minimum_lug_wall_at_entry_mm": 2.1,
+      "identification": "4 and 1 dots on underside of head",
+      "export_orientation": "flat head down, vertical shaft up",
+      "unsupported_shaft_overhang_faces": 0
+    },
+    {
+      "family_mm": 4.0,
+      "shaft_mm": 4.0,
+      "hole_mm": 4.4,
+      "clearance_per_side_mm": 0.2,
+      "head_mm": [
+        10,
+        8,
+        1
+      ],
+      "minimum_lug_wall_at_entry_mm": 2.1,
+      "identification": "4 and 2 dots on underside of head",
+      "export_orientation": "flat head down, vertical shaft up",
+      "unsupported_shaft_overhang_faces": 0
+    },
+    {
+      "family_mm": 4.0,
+      "shaft_mm": 3.9,
+      "hole_mm": 4.4,
+      "clearance_per_side_mm": 0.25,
+      "head_mm": [
+        10,
+        8,
+        1
+      ],
+      "minimum_lug_wall_at_entry_mm": 2.1,
+      "identification": "4 and 3 dots on underside of head",
+      "export_orientation": "flat head down, vertical shaft up",
+      "unsupported_shaft_overhang_faces": 0
+    },
+    {
+      "family_mm": 4.0,
+      "shaft_mm": 3.8,
+      "hole_mm": 4.4,
+      "clearance_per_side_mm": 0.3,
+      "head_mm": [
+        10,
+        8,
+        1
+      ],
+      "minimum_lug_wall_at_entry_mm": 2.1,
+      "identification": "4 and 4 dots on underside of head",
+      "export_orientation": "flat head down, vertical shaft up",
+      "unsupported_shaft_overhang_faces": 0
+    },
+    {
+      "family_mm": 5.0,
+      "shaft_mm": 5.1,
+      "hole_mm": 5.4,
+      "clearance_per_side_mm": 0.15,
+      "head_mm": [
+        10,
+        8,
+        1
+      ],
+      "minimum_lug_wall_at_entry_mm": 1.6,
+      "identification": "5 and 1 dots on underside of head",
+      "export_orientation": "flat head down, vertical shaft up",
+      "unsupported_shaft_overhang_faces": 0
+    },
+    {
+      "family_mm": 5.0,
+      "shaft_mm": 5.0,
+      "hole_mm": 5.4,
+      "clearance_per_side_mm": 0.2,
+      "head_mm": [
+        10,
+        8,
+        1
+      ],
+      "minimum_lug_wall_at_entry_mm": 1.6,
+      "identification": "5 and 2 dots on underside of head",
+      "export_orientation": "flat head down, vertical shaft up",
+      "unsupported_shaft_overhang_faces": 0
+    },
+    {
+      "family_mm": 5.0,
+      "shaft_mm": 4.9,
+      "hole_mm": 5.4,
+      "clearance_per_side_mm": 0.25,
+      "head_mm": [
+        10,
+        8,
+        1
+      ],
+      "minimum_lug_wall_at_entry_mm": 1.6,
+      "identification": "5 and 3 dots on underside of head",
+      "export_orientation": "flat head down, vertical shaft up",
+      "unsupported_shaft_overhang_faces": 0
+    },
+    {
+      "family_mm": 5.0,
+      "shaft_mm": 4.8,
+      "hole_mm": 5.4,
+      "clearance_per_side_mm": 0.3,
+      "head_mm": [
+        10,
+        8,
+        1
+      ],
+      "minimum_lug_wall_at_entry_mm": 1.6,
+      "identification": "5 and 4 dots on underside of head",
+      "export_orientation": "flat head down, vertical shaft up",
+      "unsupported_shaft_overhang_faces": 0
+    }
+  ],
+  "assembled_chassis_xyz_mm": [
+    86,
+    48,
+    10
+  ],
+  "external_XY_footprint_added_mm": 0,
+  "production_quadrants_unchanged": true,
+  "socket_size_mm": [
+    36,
+    36
+  ],
+  "socket_depth_mm": 3,
+  "socket_radius_mm": 2,
+  "pitch_mm": 38,
+  "divider_mm": 2,
+  "outer_rim_mm": 6,
+  "seam_clearance_mm": 0.25,
+  "internal_vertical_lug_clearance_mm": 0.2,
+  "cavity_top_z_mm": 4.6,
+  "socket_floor_z_mm": 7,
+  "minimum_solid_roof_mm": 2.4,
+  "lower_A_lug_thickness_mm": 1.6,
+  "upper_B_lug_cross_seam_thickness_mm": 1.4,
+  "upper_B_lug_own_half_thickness_mm": 1.6,
+  "head_bottom_z_mm": 0.2,
+  "head_top_z_mm": 1.2,
+  "pin_tip_z_mm": 4.2,
+  "head_mm": [
+    10,
+    8,
+    1
+  ],
+  "shaft_length_mm": 3,
+  "pin_root_fillet_mm": 0.6,
+  "lower_bore_entry_chamfer_mm": 0.7,
+  "upper_bore_entry_chamfer_mm": 0.3,
+  "roof_shoulder_angle_degrees": 45,
+  "remaining_roof_bridge_span_mm": 10,
+  "print_orientation": {
+    "bodies": "Flat base down, sockets up; original STL orientation.",
+    "pins": "Flat head down on plate, smooth shaft vertically up. Never side-print.",
+    "tiles": "Flat base down."
+  },
+  "pin_brim": "None initially; optional 2 mm brim only if adhesion fails. Not included in STL bounds.",
+  "retention": "Head is 0.2 mm above the underside plane; the tabletop traps it. Pins are not captive off the table.",
+  "supports": "Pins and blank tiles: predicted support-free, head/base down. Bodies: selective supports still required below interleaving lug cantilevers; 45-degree roof shoulders need none. The remaining 10 mm two-sided roof span is a bridge candidate; test bridging and inspect in slicer, support locally if needed. Avoid bores, mating surfaces and sockets. Remove supports before assembly.",
+  "PLA_risks": [
+    "1.4 mm upper lug and 1.0 mm pin head are the limiting thin features; print solid and test wear/strength.",
+    "Printed vertical pins depend on layer adhesion in shear; short 3 mm shafts reduce bending leverage, but strength is untested.",
+    "Do not lift by one half; hold/support pins when lifting because gravity does not retain underside pins.",
+    "Support cleanup inside the cavities is necessary; scars can change fit."
+  ],
+  "no_gameplay_tiles_generated": true,
+  "tile_clearance_selected": false
+}

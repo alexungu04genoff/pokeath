@@ -1,0 +1,292 @@
+{
+  "pitch_mm": 40.0,
+  "brim_included": false,
+  "stl_dimensions_include_all_integral_geometry": true,
+  "keys_printed_separately": true,
+  "largest_quadrant_xy_dimension_mm": 245.9,
+  "recommendation": "Keep 40 mm pitch",
+  "boards": [
+    {
+      "board": "Akala",
+      "pitch_mm": 40.0,
+      "nominal_well_mm": [
+        38.0,
+        38.0
+      ],
+      "internal_divider_mm": 2,
+      "minimum_outer_rim_mm": 7.396,
+      "quadrants": [
+        {
+          "quadrant": 1,
+          "file": "output\\final_sizing_40mm\\Akala\\quadrant_1.stl",
+          "print_rotation_degrees": 0.0,
+          "stl_xy_mm": [
+            207.86,
+            211.995
+          ],
+          "z_mm": 8.0,
+          "xy_with_installed_loose_keys_mm": [
+            212.078,
+            217.32
+          ]
+        },
+        {
+          "quadrant": 2,
+          "file": "output\\final_sizing_40mm\\Akala\\quadrant_2.stl",
+          "print_rotation_degrees": 48.76,
+          "stl_xy_mm": [
+            210.032,
+            210.02
+          ],
+          "z_mm": 8.0,
+          "xy_with_installed_loose_keys_mm": [
+            210.032,
+            216.632
+          ]
+        },
+        {
+          "quadrant": 3,
+          "file": "output\\final_sizing_40mm\\Akala\\quadrant_3.stl",
+          "print_rotation_degrees": 43.36,
+          "stl_xy_mm": [
+            241.008,
+            241.022
+          ],
+          "z_mm": 8.0,
+          "xy_with_installed_loose_keys_mm": [
+            241.008,
+            254.311
+          ]
+        },
+        {
+          "quadrant": 4,
+          "file": "output\\final_sizing_40mm\\Akala\\quadrant_4.stl",
+          "print_rotation_degrees": 7.94,
+          "stl_xy_mm": [
+            245.9,
+            245.899
+          ],
+          "z_mm": 8.0,
+          "xy_with_installed_loose_keys_mm": [
+            256.575,
+            250.758
+          ]
+        }
+      ],
+      "well_count_including_finish": 30
+    },
+    {
+      "board": "Melemele",
+      "pitch_mm": 40.0,
+      "nominal_well_mm": [
+        38.0,
+        38.0
+      ],
+      "internal_divider_mm": 2,
+      "minimum_outer_rim_mm": 6.598,
+      "quadrants": [
+        {
+          "quadrant": 1,
+          "file": "output\\final_sizing_40mm\\Melemele\\quadrant_1.stl",
+          "print_rotation_degrees": 0.0,
+          "stl_xy_mm": [
+            169.988,
+            133.727
+          ],
+          "z_mm": 8.0,
+          "xy_with_installed_loose_keys_mm": [
+            174.113,
+            139.052
+          ]
+        },
+        {
+          "quadrant": 2,
+          "file": "output\\final_sizing_40mm\\Melemele\\quadrant_2.stl",
+          "print_rotation_degrees": 0.0,
+          "stl_xy_mm": [
+            172.11,
+            133.727
+          ],
+          "z_mm": 8.0,
+          "xy_with_installed_loose_keys_mm": [
+            175.998,
+            139.052
+          ]
+        },
+        {
+          "quadrant": 3,
+          "file": "output\\final_sizing_40mm\\Melemele\\quadrant_3.stl",
+          "print_rotation_degrees": 0.0,
+          "stl_xy_mm": [
+            210.798,
+            171.71
+          ],
+          "z_mm": 8.0,
+          "xy_with_installed_loose_keys_mm": [
+            219.438,
+            181.16
+          ]
+        },
+        {
+          "quadrant": 4,
+          "file": "output\\final_sizing_40mm\\Melemele\\quadrant_4.stl",
+          "print_rotation_degrees": 0.0,
+          "stl_xy_mm": [
+            210.877,
+            171.71
+          ],
+          "z_mm": 8.0,
+          "xy_with_installed_loose_keys_mm": [
+            216.202,
+            181.16
+          ]
+        }
+      ],
+      "well_count_including_finish": 30
+    },
+    {
+      "board": "Poni",
+      "pitch_mm": 40.0,
+      "nominal_well_mm": [
+        38.0,
+        38.0
+      ],
+      "internal_divider_mm": 2,
+      "minimum_outer_rim_mm": 3.378,
+      "quadrants": [
+        {
+          "quadrant": 1,
+          "file": "output\\final_sizing_40mm\\Poni\\quadrant_1.stl",
+          "print_rotation_degrees": 0.0,
+          "stl_xy_mm": [
+            209.414,
+            212.903
+          ],
+          "z_mm": 8.0,
+          "xy_with_installed_loose_keys_mm": [
+            213.608,
+            218.228
+          ]
+        },
+        {
+          "quadrant": 2,
+          "file": "output\\final_sizing_40mm\\Poni\\quadrant_2.stl",
+          "print_rotation_degrees": 0.0,
+          "stl_xy_mm": [
+            210.379,
+            208.473
+          ],
+          "z_mm": 8.0,
+          "xy_with_installed_loose_keys_mm": [
+            210.379,
+            213.798
+          ]
+        },
+        {
+          "quadrant": 3,
+          "file": "output\\final_sizing_40mm\\Poni\\quadrant_3.stl",
+          "print_rotation_degrees": 82.8,
+          "stl_xy_mm": [
+            231.336,
+            231.342
+          ],
+          "z_mm": 8.0,
+          "xy_with_installed_loose_keys_mm": [
+            231.336,
+            237.154
+          ]
+        },
+        {
+          "quadrant": 4,
+          "file": "output\\final_sizing_40mm\\Poni\\quadrant_4.stl",
+          "print_rotation_degrees": 71.92,
+          "stl_xy_mm": [
+            231.379,
+            231.379
+          ],
+          "z_mm": 8.0,
+          "xy_with_installed_loose_keys_mm": [
+            242.715,
+            237.024
+          ]
+        }
+      ],
+      "well_count_including_finish": 37
+    },
+    {
+      "board": "Ulaula",
+      "pitch_mm": 40.0,
+      "nominal_well_mm": [
+        38.0,
+        38.0
+      ],
+      "internal_divider_mm": 2,
+      "minimum_outer_rim_mm": 6.047,
+      "quadrants": [
+        {
+          "quadrant": 1,
+          "file": "output\\final_sizing_40mm\\Ulaula\\quadrant_1.stl",
+          "print_rotation_degrees": 0.0,
+          "stl_xy_mm": [
+            210.965,
+            172.858
+          ],
+          "z_mm": 8.0,
+          "xy_with_installed_loose_keys_mm": [
+            215.09,
+            178.183
+          ]
+        },
+        {
+          "quadrant": 2,
+          "file": "output\\final_sizing_40mm\\Ulaula\\quadrant_2.stl",
+          "print_rotation_degrees": 26.9,
+          "stl_xy_mm": [
+            185.545,
+            185.558
+          ],
+          "z_mm": 8.0,
+          "xy_with_installed_loose_keys_mm": [
+            191.59,
+            192.209
+          ]
+        },
+        {
+          "quadrant": 3,
+          "file": "output\\final_sizing_40mm\\Ulaula\\quadrant_3.stl",
+          "print_rotation_degrees": 0.0,
+          "stl_xy_mm": [
+            210.965,
+            210.036
+          ],
+          "z_mm": 8.0,
+          "xy_with_installed_loose_keys_mm": [
+            220.415,
+            219.486
+          ]
+        },
+        {
+          "quadrant": 4,
+          "file": "output\\final_sizing_40mm\\Ulaula\\quadrant_4.stl",
+          "print_rotation_degrees": 0.0,
+          "stl_xy_mm": [
+            211.741,
+            210.036
+          ],
+          "z_mm": 8.0,
+          "xy_with_installed_loose_keys_mm": [
+            217.586,
+            219.486
+          ]
+        }
+      ],
+      "well_count_including_finish": 34
+    }
+  ],
+  "limitations": [
+    "Measured from reloaded exported STLs, not a Bambu Studio slicing run.",
+    "STL rotation is baked in. Import at 100% with no automatic reorientation.",
+    "Snap elasticity, internal support removal and physical print fit remain untested.",
+    "Outer rim retains smoothed artwork contour with a minimum 3 mm around playing wells."
+  ]
+}

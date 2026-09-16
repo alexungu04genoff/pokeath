@@ -1,0 +1,447 @@
+{
+  "board_dimensions_mm": [
+    320.16,
+    290.03
+  ],
+  "base_thickness_mm": 6.0,
+  "seam_gap_mm": 0.25,
+  "sticker_pocket_depth_mm": 0.4,
+  "parts": [
+    {
+      "file": "board_1.stl",
+      "dimensions_mm": [
+        159.945,
+        160.175,
+        20.7
+      ],
+      "volume_mm3": 135909.04,
+      "watertight": true,
+      "connected": true
+    },
+    {
+      "file": "board_2.stl",
+      "dimensions_mm": [
+        166.385,
+        116.988,
+        6.93
+      ],
+      "volume_mm3": 74200.42,
+      "watertight": true,
+      "connected": true
+    },
+    {
+      "file": "board_3.stl",
+      "dimensions_mm": [
+        159.911,
+        129.355,
+        20.0
+      ],
+      "volume_mm3": 84860.19,
+      "watertight": true,
+      "connected": true
+    },
+    {
+      "file": "board_4.stl",
+      "dimensions_mm": [
+        159.715,
+        129.355,
+        15.353
+      ],
+      "volume_mm3": 90071.93,
+      "watertight": true,
+      "connected": true
+    },
+    {
+      "file": "sliding_key_print_3.stl",
+      "dimensions_mm": [
+        22.0,
+        11.6,
+        2.0
+      ],
+      "volume_mm3": 431.2,
+      "watertight": true,
+      "connected": true
+    },
+    {
+      "file": "fit_test_left.stl",
+      "dimensions_mm": [
+        24.0,
+        12.875,
+        6.0
+      ],
+      "volume_mm3": 1577.36,
+      "watertight": true,
+      "connected": true
+    },
+    {
+      "file": "fit_test_right.stl",
+      "dimensions_mm": [
+        24.0,
+        12.875,
+        6.0
+      ],
+      "volume_mm3": 1577.36,
+      "watertight": true,
+      "connected": true
+    }
+  ],
+  "space_count": 33,
+  "sticker_ownership": [
+    {
+      "id": "S01",
+      "part": 1,
+      "rect_reference_px": [
+        420,
+        184,
+        545,
+        306
+      ]
+    },
+    {
+      "id": "S02",
+      "part": 1,
+      "rect_reference_px": [
+        420,
+        314,
+        545,
+        437
+      ]
+    },
+    {
+      "id": "S03",
+      "part": 1,
+      "rect_reference_px": [
+        154,
+        445,
+        279,
+        568
+      ]
+    },
+    {
+      "id": "S04",
+      "part": 1,
+      "rect_reference_px": [
+        287,
+        445,
+        412,
+        568
+      ]
+    },
+    {
+      "id": "S05",
+      "part": 1,
+      "rect_reference_px": [
+        420,
+        445,
+        545,
+        568
+      ]
+    },
+    {
+      "id": "S06",
+      "part": 1,
+      "rect_reference_px": [
+        154,
+        576,
+        279,
+        699
+      ]
+    },
+    {
+      "id": "S07",
+      "part": 1,
+      "rect_reference_px": [
+        553,
+        576,
+        676,
+        699
+      ]
+    },
+    {
+      "id": "S08",
+      "part": 1,
+      "rect_reference_px": [
+        684,
+        576,
+        805,
+        699
+      ]
+    },
+    {
+      "id": "S09",
+      "part": 2,
+      "rect_reference_px": [
+        813,
+        576,
+        937,
+        699
+      ]
+    },
+    {
+      "id": "S10",
+      "part": 2,
+      "rect_reference_px": [
+        945,
+        576,
+        1069,
+        699
+      ]
+    },
+    {
+      "id": "S11",
+      "part": 2,
+      "rect_reference_px": [
+        1077,
+        576,
+        1200,
+        699
+      ]
+    },
+    {
+      "id": "S12",
+      "part": 2,
+      "rect_reference_px": [
+        1208,
+        576,
+        1332,
+        699
+      ]
+    },
+    {
+      "id": "S13",
+      "part": 1,
+      "rect_reference_px": [
+        154,
+        707,
+        279,
+        830
+      ]
+    },
+    {
+      "id": "S14",
+      "part": 1,
+      "rect_reference_px": [
+        553,
+        707,
+        676,
+        830
+      ]
+    },
+    {
+      "id": "S15",
+      "part": 2,
+      "rect_reference_px": [
+        1208,
+        707,
+        1332,
+        830
+      ]
+    },
+    {
+      "id": "S16",
+      "part": 2,
+      "rect_reference_px": [
+        1340,
+        707,
+        1464,
+        830
+      ]
+    },
+    {
+      "id": "S17",
+      "part": 3,
+      "rect_reference_px": [
+        154,
+        838,
+        279,
+        961
+      ]
+    },
+    {
+      "id": "S18",
+      "part": 3,
+      "rect_reference_px": [
+        287,
+        838,
+        412,
+        961
+      ]
+    },
+    {
+      "id": "S19",
+      "part": 3,
+      "rect_reference_px": [
+        420,
+        838,
+        545,
+        961
+      ]
+    },
+    {
+      "id": "S20",
+      "part": 3,
+      "rect_reference_px": [
+        553,
+        838,
+        676,
+        961
+      ]
+    },
+    {
+      "id": "S21",
+      "part": 4,
+      "rect_reference_px": [
+        1340,
+        838,
+        1464,
+        961
+      ]
+    },
+    {
+      "id": "S22",
+      "part": 3,
+      "rect_reference_px": [
+        420,
+        969,
+        545,
+        1092
+      ]
+    },
+    {
+      "id": "S23",
+      "part": 4,
+      "rect_reference_px": [
+        1077,
+        969,
+        1200,
+        1092
+      ]
+    },
+    {
+      "id": "S24",
+      "part": 4,
+      "rect_reference_px": [
+        1208,
+        969,
+        1332,
+        1092
+      ]
+    },
+    {
+      "id": "S25",
+      "part": 4,
+      "rect_reference_px": [
+        1340,
+        969,
+        1464,
+        1092
+      ]
+    },
+    {
+      "id": "S26",
+      "part": 3,
+      "rect_reference_px": [
+        420,
+        1100,
+        545,
+        1223
+      ]
+    },
+    {
+      "id": "S27",
+      "part": 3,
+      "rect_reference_px": [
+        553,
+        1100,
+        676,
+        1223
+      ]
+    },
+    {
+      "id": "S28",
+      "part": 4,
+      "rect_reference_px": [
+        813,
+        1100,
+        937,
+        1223
+      ]
+    },
+    {
+      "id": "S29",
+      "part": 4,
+      "rect_reference_px": [
+        945,
+        1100,
+        1069,
+        1223
+      ]
+    },
+    {
+      "id": "S30",
+      "part": 4,
+      "rect_reference_px": [
+        1077,
+        1100,
+        1200,
+        1223
+      ]
+    },
+    {
+      "id": "S31",
+      "part": 3,
+      "rect_reference_px": [
+        553,
+        1231,
+        676,
+        1354
+      ]
+    },
+    {
+      "id": "S32",
+      "part": 3,
+      "rect_reference_px": [
+        684,
+        1231,
+        805,
+        1354
+      ]
+    },
+    {
+      "id": "S33",
+      "part": 4,
+      "rect_reference_px": [
+        813,
+        1231,
+        937,
+        1354
+      ]
+    },
+    {
+      "id": "FINISH",
+      "part": 1,
+      "rect_reference_px": [
+        216,
+        184,
+        409,
+        306
+      ]
+    },
+    {
+      "id": "START",
+      "part": 2,
+      "rect_reference_px": [
+        816,
+        455,
+        1135,
+        548
+      ]
+    }
+  ],
+  "checks": {
+    "all_stickers_whole": true,
+    "relief_clear_of_spaces": true,
+    "keys_clear_of_board": true,
+    "physical_print_tested": false
+  }
+}

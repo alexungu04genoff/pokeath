@@ -1,0 +1,169 @@
+{
+  "bed_envelope_mm": 250.0,
+  "rim_inset_each_edge_mm": 2,
+  "shared_nominal_well_limit_mm": 36.62,
+  "boards": [
+    {
+      "board": "Akala",
+      "max_nominal_pitch_mm": 40.62,
+      "nominal_well_width_mm_with_2mm_rims": 36.62,
+      "assembled_dimensions_at_individual_limit_mm": [
+        373.7,
+        471.0
+      ],
+      "primary_seam_direction": "horizontal",
+      "primary_seam_reference_coordinate": 702.5,
+      "secondary_seam_reference_coordinates": [
+        1105.5,
+        711.0
+      ],
+      "section_print_bounding_boxes_at_40mm_pitch": [
+        [
+          208.38,
+          212.02
+        ],
+        [
+          210.65,
+          210.17
+        ],
+        [
+          241.19,
+          241.75
+        ],
+        [
+          246.21,
+          246.21
+        ]
+      ],
+      "print_rotations_degrees": [
+        0.0,
+        41.5,
+        46.5,
+        82.0
+      ]
+    },
+    {
+      "board": "Melemele",
+      "max_nominal_pitch_mm": 47.37,
+      "nominal_well_width_mm_with_2mm_rims": 43.37,
+      "assembled_dimensions_at_individual_limit_mm": [
+        499.3,
+        362.4
+      ],
+      "primary_seam_direction": "horizontal",
+      "primary_seam_reference_coordinate": 704.5,
+      "secondary_seam_reference_coordinates": [
+        676.0,
+        807.5
+      ],
+      "section_print_bounding_boxes_at_40mm_pitch": [
+        [
+          170.49,
+          134.14
+        ],
+        [
+          172.32,
+          134.14
+        ],
+        [
+          210.49,
+          171.86
+        ],
+        [
+          211.1,
+          171.86
+        ]
+      ],
+      "print_rotations_degrees": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "board": "Poni",
+      "max_nominal_pitch_mm": 43.1,
+      "nominal_well_width_mm_with_2mm_rims": 39.1,
+      "assembled_dimensions_at_individual_limit_mm": [
+        523.1,
+        453.6
+      ],
+      "primary_seam_direction": "horizontal",
+      "primary_seam_reference_coordinate": 775.5,
+      "secondary_seam_reference_coordinates": [
+        912.5,
+        781.0
+      ],
+      "section_print_bounding_boxes_at_40mm_pitch": [
+        [
+          210.1,
+          213.23
+        ],
+        [
+          210.49,
+          208.74
+        ],
+        [
+          232.01,
+          231.08
+        ],
+        [
+          231.73,
+          231.48
+        ]
+      ],
+      "print_rotations_degrees": [
+        0.0,
+        0.0,
+        7.0,
+        18.0
+      ]
+    },
+    {
+      "board": "Ulaula",
+      "max_nominal_pitch_mm": 47.17,
+      "nominal_well_width_mm_with_2mm_rims": 43.17,
+      "assembled_dimensions_at_individual_limit_mm": [
+        499.3,
+        451.9
+      ],
+      "primary_seam_direction": "horizontal",
+      "primary_seam_reference_coordinate": 706.0,
+      "secondary_seam_reference_coordinates": [
+        807.5,
+        807.5
+      ],
+      "section_print_bounding_boxes_at_40mm_pitch": [
+        [
+          211.3,
+          173.23
+        ],
+        [
+          186.39,
+          185.81
+        ],
+        [
+          211.41,
+          210.04
+        ],
+        [
+          212.02,
+          210.04
+        ]
+      ],
+      "print_rotations_degrees": [
+        0.0,
+        63.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "limitations": [
+    "Search evaluates horizontal and vertical grid-aligned T-shaped four-part partitions and 0.5 degree rotations.",
+    "Grid traces are approximate; label detours and connectors are not modelled.",
+    "This is a feasible sizing estimate, not a proof of a global optimum.",
+    "Corner wells share nominal width but lose floor area to their curves."
+  ]
+}

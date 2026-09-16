@@ -1,0 +1,10 @@
+numpy==2.3.5
+Pillow==12.3.0
+reportlab
+scipy==1.18.1
+matplotlib==3.11.2
+contourpy==1.4.0
+shapely==2.1.2
+trimesh==5.1.0
+manifold3d==3.5.3
+mapbox-earcut==2.1.0

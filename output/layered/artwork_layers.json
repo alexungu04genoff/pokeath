@@ -1,0 +1,52 @@
+[
+  {
+    "name": "water",
+    "height_above_board_mm": 0.8,
+    "area_mm2": 2122.1
+  },
+  {
+    "name": "sand",
+    "height_above_board_mm": 1.2,
+    "area_mm2": 818.28
+  },
+  {
+    "name": "rock",
+    "height_above_board_mm": 1.6,
+    "area_mm2": 693.82
+  },
+  {
+    "name": "trunk",
+    "height_above_board_mm": 2.0,
+    "area_mm2": 730.59
+  },
+  {
+    "name": "grass",
+    "height_above_board_mm": 2.4,
+    "area_mm2": 419.99
+  },
+  {
+    "name": "green",
+    "height_above_board_mm": 2.0,
+    "area_mm2": 464.21
+  },
+  {
+    "name": "mountain",
+    "height_above_board_mm": 1.6,
+    "area_mm2": 958.46
+  },
+  {
+    "name": "observatory",
+    "height_above_board_mm": 2.0,
+    "area_mm2": 313.63
+  },
+  {
+    "name": "lettering",
+    "height_above_board_mm": 3.2,
+    "area_mm2": 3737.52
+  },
+  {
+    "name": "start",
+    "height_above_board_mm": 3.2,
+    "area_mm2": 584.27
+  }
+]

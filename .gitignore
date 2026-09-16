@@ -1,0 +1,15 @@
+# Python interpreter caches
+__pycache__/
+*.py[cod]
+
+# Local scratch space
+tmp/
+
+# Reproducible build artifacts.  Keep output documentation and validation data
+# (such as .md and .json files) version-controlled; regenerate these large
+# manufacturing/preview files with the project build scripts when needed.
+/output/**/*.stl
+/output/**/*.png
+/output/**/*.pdf
+/output/**/*.zip
+/output/*.zip

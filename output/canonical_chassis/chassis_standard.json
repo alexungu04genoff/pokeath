@@ -1,0 +1,38 @@
+{
+  "standard": "Pokemon Athletes universal chassis v1",
+  "printer_xy_mm": [
+    256.0,
+    256.0
+  ],
+  "quadrant_target_mm": 248.0,
+  "sections_per_board": 4,
+  "grid_pitch_mm": 38.0,
+  "socket_size_mm": [
+    36.0,
+    36.0
+  ],
+  "socket_depth_mm": 3.0,
+  "socket_corner_radius_mm": 2.0,
+  "divider_width_mm": 2.0,
+  "outer_track_rim_mm": 6.0,
+  "board_thickness_mm": 10.0,
+  "removal_recess_width_mm": 6.0,
+  "removal_recess_extension_mm": 1.0,
+  "removal_recess_depth_mm": 1.2,
+  "seam_clearance_mm": 0.25,
+  "snap_engagement_mm": 0.8,
+  "spring_tongue_thickness_mm": 1.0,
+  "rail_length_mm": 34.0,
+  "rail_flange_width_mm": 10.4,
+  "rail_lateral_clearance_mm": 0.3,
+  "rail_roof_clearance_mm": 1.2,
+  "blank_fit_test_tile_thickness_mm": 2.8,
+  "fit_test_clearance_per_side_mm": [
+    0.15,
+    0.2,
+    0.25,
+    0.3
+  ],
+  "final_tile_clearance_per_side_mm": null,
+  "tile_clearance_status": "Awaiting physical A1 fit-test; do not generate gameplay tiles"
+}

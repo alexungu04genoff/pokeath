@@ -1,0 +1,152 @@
+{
+  "file": "prototype_2x1_ALL_COMPONENTS_A1.stl",
+  "component_count": 14,
+  "xyz_mm": [
+    167.4,
+    161.0,
+    12.2
+  ],
+  "minimum_component_bounding_box_gap_mm": 8.3,
+  "watertight_manifold": true,
+  "fits_A1_256mm": true,
+  "original_print_orientations_preserved": true,
+  "placements_before_centering": [
+    {
+      "source": "prototype_2x1_part_A.stl",
+      "label": "A",
+      "position_mm": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "source": "prototype_2x1_part_B.stl",
+      "label": "B",
+      "position_mm": [
+        61,
+        0,
+        0
+      ]
+    },
+    {
+      "source": "tiles\\blank_test_tile_0.15mm_per_side_1_dots.stl",
+      "label": "Tile 1",
+      "position_mm": [
+        0,
+        80,
+        0
+      ]
+    },
+    {
+      "source": "tiles\\blank_test_tile_0.20mm_per_side_2_dots.stl",
+      "label": "Tile 2",
+      "position_mm": [
+        44,
+        80,
+        0
+      ]
+    },
+    {
+      "source": "tiles\\blank_test_tile_0.25mm_per_side_3_dots.stl",
+      "label": "Tile 3",
+      "position_mm": [
+        88,
+        80,
+        0
+      ]
+    },
+    {
+      "source": "tiles\\blank_test_tile_0.30mm_per_side_4_dots.stl",
+      "label": "Tile 4",
+      "position_mm": [
+        132,
+        80,
+        0
+      ]
+    },
+    {
+      "source": "pins\\T_pin_4mm_family_clearance_0.15_shaft_4.10.stl",
+      "label": "4 / 1",
+      "position_mm": [
+        0,
+        130,
+        0
+      ]
+    },
+    {
+      "source": "pins\\T_pin_4mm_family_clearance_0.20_shaft_4.00.stl",
+      "label": "4 / 2",
+      "position_mm": [
+        22,
+        130,
+        0
+      ]
+    },
+    {
+      "source": "pins\\T_pin_4mm_family_clearance_0.25_shaft_3.90.stl",
+      "label": "4 / 3",
+      "position_mm": [
+        44,
+        130,
+        0
+      ]
+    },
+    {
+      "source": "pins\\T_pin_4mm_family_clearance_0.30_shaft_3.80.stl",
+      "label": "4 / 4",
+      "position_mm": [
+        66,
+        130,
+        0
+      ]
+    },
+    {
+      "source": "pins\\T_pin_5mm_family_clearance_0.15_shaft_5.10.stl",
+      "label": "5 / 1",
+      "position_mm": [
+        0,
+        153,
+        0
+      ]
+    },
+    {
+      "source": "pins\\T_pin_5mm_family_clearance_0.20_shaft_5.00.stl",
+      "label": "5 / 2",
+      "position_mm": [
+        22,
+        153,
+        0
+      ]
+    },
+    {
+      "source": "pins\\T_pin_5mm_family_clearance_0.25_shaft_4.90.stl",
+      "label": "5 / 3",
+      "position_mm": [
+        44,
+        153,
+        0
+      ]
+    },
+    {
+      "source": "pins\\T_pin_5mm_family_clearance_0.30_shaft_4.80.stl",
+      "label": "5 / 4",
+      "position_mm": [
+        66,
+        153,
+        0
+      ]
+    }
+  ],
+  "bed_centering_offset_mm": [
+    44.3,
+    47.5
+  ],
+  "supports": {
+    "part_A": "socket up, flat underside on bed, no supports",
+    "part_B": "socket up; 45-degree underside grows from a bed-connected foot; predicted near-support-free, inspect local bore bridges up to 5.4 mm",
+    "pins": "Flat T-head down, shaft vertical up; predicted support-free. No side printing. Optional 2 mm brim if adhesion requires.",
+    "tiles": "flat underside on bed; existing top identification dots"
+  },
+  "instructions": "Import as one object at 100%, keep orientation and arrangement. The STL contains 14 disconnected closed components; do not union them. Support settings are not stored in STL."
+}

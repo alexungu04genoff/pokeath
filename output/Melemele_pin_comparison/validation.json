@@ -1,0 +1,119 @@
+{
+  "board": "Melemele",
+  "canonical_standard": {
+    "standard": "Pokemon Athletes universal chassis v1",
+    "printer_xy_mm": [
+      256.0,
+      256.0
+    ],
+    "quadrant_target_mm": 248.0,
+    "sections_per_board": 4,
+    "grid_pitch_mm": 38.0,
+    "socket_size_mm": [
+      36.0,
+      36.0
+    ],
+    "socket_depth_mm": 3.0,
+    "socket_corner_radius_mm": 2.0,
+    "divider_width_mm": 2.0,
+    "outer_track_rim_mm": 6.0,
+    "board_thickness_mm": 10.0,
+    "removal_recess_width_mm": 6.0,
+    "removal_recess_extension_mm": 1.0,
+    "removal_recess_depth_mm": 1.2,
+    "seam_clearance_mm": 0.25,
+    "snap_engagement_mm": 0.8,
+    "spring_tongue_thickness_mm": 1.0,
+    "rail_length_mm": 34.0,
+    "rail_flange_width_mm": 10.4,
+    "rail_lateral_clearance_mm": 0.3,
+    "rail_roof_clearance_mm": 1.2,
+    "blank_fit_test_tile_thickness_mm": 2.8,
+    "fit_test_clearance_per_side_mm": [
+      0.15,
+      0.2,
+      0.25,
+      0.3
+    ],
+    "final_tile_clearance_per_side_mm": null,
+    "tile_clearance_status": "Awaiting physical A1 fit-test; do not generate gameplay tiles"
+  },
+  "production_quadrants_unchanged": true,
+  "assembled_chassis_xyz_mm": [
+    405.281,
+    285.756,
+    10.0
+  ],
+  "assembled_with_pins_xyz_mm": [
+    405.281,
+    285.756,
+    12.4
+  ],
+  "quadrants": [
+    {
+      "quadrant": 1,
+      "xyz_mm": [
+        146.194,
+        165.182,
+        10.0
+      ],
+      "maximum_xy_mm": 165.182,
+      "baked_print_rotation_degrees": 82.44,
+      "fits_A1": true,
+      "watertight_manifold": true,
+      "whole_socket_count": 6
+    },
+    {
+      "quadrant": 2,
+      "xyz_mm": [
+        165.211,
+        146.294,
+        10.0
+      ],
+      "maximum_xy_mm": 165.211,
+      "baked_print_rotation_degrees": 7.600000000000001,
+      "fits_A1": true,
+      "watertight_manifold": true,
+      "whole_socket_count": 6
+    },
+    {
+      "quadrant": 3,
+      "xyz_mm": [
+        203.828,
+        190.898,
+        10.0
+      ],
+      "maximum_xy_mm": 203.828,
+      "baked_print_rotation_degrees": 4.98,
+      "fits_A1": true,
+      "watertight_manifold": true,
+      "whole_socket_count": 8
+    },
+    {
+      "quadrant": 4,
+      "xyz_mm": [
+        180.661,
+        203.389,
+        10.0
+      ],
+      "maximum_xy_mm": 203.389,
+      "baked_print_rotation_degrees": 87.0,
+      "fits_A1": true,
+      "watertight_manifold": true,
+      "whole_socket_count": 9
+    }
+  ],
+  "socket_count": 29,
+  "shaft_mm": 5,
+  "bore_mm": 5.4,
+  "pin_clearance_per_side_mm": 0.2,
+  "lock_status": "Provisional; no physical fit results selected",
+  "all_socket_floors_whole_and_universal": true,
+  "minimum_lug_cutout_to_socket_mm": 1.874,
+  "supports": "Only beneath raised upper lugs and horizontal T-pin shafts; avoid wells and bores.",
+  "limitations": [
+    "Gravity-retained pins are not captive against lifting or inversion.",
+    "Dimensions are measured from meshes, not a Bambu Studio slicing run.",
+    "This is an experimental comparison board; no tile or pin tolerance is frozen."
+  ]
+}
