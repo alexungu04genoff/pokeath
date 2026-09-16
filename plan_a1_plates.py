@@ -123,8 +123,14 @@ def preview(number: int, title: str, placements: list[Placement], spacing: float
         axis.add_patch(Rectangle((placement.x, placement.y), placement.width, placement.height,
                                  facecolor=color, edgecolor="white", linewidth=1.2))
         rotation = f"baked {placement.item.baked_rotation:.2f}°" if placement.item.baked_rotation else "baked 0°"
+        if placement.width <= 15:
+            label = f"Pin\n{placement.width:.0f}×{placement.height:.0f}"
+        elif placement.width < 40:
+            label = f"Tile\n{placement.width:.1f}×{placement.height:.1f}"
+        else:
+            label = f"{placement.label}\n{placement.width:.1f} × {placement.height:.1f}\n{rotation}"
         axis.text(placement.x + placement.width / 2, placement.y + placement.height / 2,
-                  f"{placement.label}\n{placement.width:.1f} × {placement.height:.1f}\n{rotation}",
+                  label,
                   ha="center", va="center", fontsize=7, wrap=True)
     axis.set_xlim(0, PLATE_SIZE); axis.set_ylim(0, PLATE_SIZE); axis.set_aspect("equal")
     axis.set_xticks([0, 64, 128, 192, 256]); axis.set_yticks([0, 64, 128, 192, 256])
@@ -149,11 +155,19 @@ def build_plan(spacing: float) -> list[tuple[str, list[Placement]]]:
     bounds = json.loads((canonical / "finished_stl_bounds.json").read_text())
     plan: list[tuple[str, list[Placement]]] = []
 
-    # The combined STL intentionally preserves a tested arrangement of its 14 disconnected pieces.
-    prototype_plate = component_item("Sloped 2×1 prototype test kit (14 disconnected parts)",
-                                    prototype / "prototype_2x1_ALL_COMPONENTS_A1.stl", "prototype",
-                                    note="Print this plate before any production board.")
-    plan.append(("Print first: experimental sloped 2×1 prototype", pack_rows([prototype_plate], spacing)))
+    # Use each source STL so the plan shows every disconnected test component.
+    # The individual files already carry their required print orientations.
+    prototype_items = [
+        component_item("Prototype Part A", prototype / "prototype_2x1_part_A.stl", "prototype"),
+        component_item("Prototype Part B", prototype / "prototype_2x1_part_B.stl", "prototype"),
+    ]
+    for path in sorted((prototype / "tiles").glob("*.stl")):
+        tokens = path.stem.split("_")
+        prototype_items.append(component_item(f"Tile {tokens[3]} / {tokens[6]} dot", path, "prototype"))
+    for path in sorted((prototype / "pins").glob("*.stl")):
+        tokens = path.stem.split("_")
+        prototype_items.append(component_item(f"Pin {tokens[2]} / {tokens[5]} clearance / {tokens[7]} shaft", path, "prototype"))
+    plan.append(("Print first: experimental sloped 2×1 prototype", pack_rows(prototype_items, spacing)))
 
     accessories = [
         component_item("Four-socket tile-fit coupon", canonical / "fit_test" / "four_identical_socket_coupon.stl", "accessory"),
@@ -214,7 +228,7 @@ def write_report(plan: list[tuple[str, list[Placement]]], spacing: float, destin
             lines.append(f"| {name} | {len(entries)} | {item.size[0]:.3f} × {item.size[1]:.3f} | {rotation} |")
         lines.append("")
     lines += ["## Planning notes", "",
-              "The prototype combined STL contains fourteen disconnected parts whose internal 8.3 mm spacing is already validated. The plan does not auto-arrange its internal pieces.",
+              "Plate 01 places all fourteen prototype source STLs individually at their exported orientations. The combined prototype STL is an alternative convenience file, but is not separately planned because it duplicates these parts.",
               "",
               "Melemele Q1 and Q2 are the only production quadrants intentionally paired. Their shared plate is geometrically valid at the configured spacing but has a close edge margin; every other quadrant remains alone to preserve its baked orientation and give reliable adhesion room.",
               "",

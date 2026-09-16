@@ -8,13 +8,26 @@ This is a placement plan, not G-code and not a slicer-time/material estimate. Ev
 
 ## Plate 01: Print first: experimental sloped 2×1 prototype
 
-Footprint: **167.400 × 161.000 mm**. Margins L/R/F/B: **44.300 / 44.300 / 47.500 / 47.500 mm**. Plate edge: **comfortable (10 mm or more)**.
+Footprint: **234.400 × 107.400 mm**. Margins L/R/F/B: **10.800 / 10.800 / 74.300 / 74.300 mm**. Plate edge: **comfortable (10 mm or more)**.
 
 ![Plate 01](output/a1_print_plan/plate_01.png)
 
 | Component | Quantity | STL XY footprint (mm) | Required rotation |
 | --- | ---: | ---: | --- |
-| Sloped 2×1 prototype test kit (14 disconnected parts) | 1 | 167.400 × 161.000 | Baked 0°; no additional rotation |
+| Prototype Part A | 1 | 47.800 × 64.000 | Baked 0°; no additional rotation |
+| Prototype Part B | 1 | 47.800 × 64.000 | Baked 0°; no additional rotation |
+| Tile 0.15mm mm/side 1_dots | 1 | 35.700 × 35.700 | Baked 0°; no additional rotation |
+| Tile 0.20mm mm/side 2_dots | 1 | 35.600 × 35.600 | Baked 0°; no additional rotation |
+| Tile 0.25mm mm/side 3_dots | 1 | 35.500 × 35.500 | Baked 0°; no additional rotation |
+| Tile 0.30mm mm/side 4_dots | 1 | 35.400 × 35.400 | Baked 0°; no additional rotation |
+| Pin 4mm clearance_0.15 shaft 4.10 | 1 | 12.000 × 8.000 | Baked 0°; no additional rotation |
+| Pin 4mm clearance_0.20 shaft 4.00 | 1 | 12.000 × 8.000 | Baked 0°; no additional rotation |
+| Pin 4mm clearance_0.25 shaft 3.90 | 1 | 12.000 × 8.000 | Baked 0°; no additional rotation |
+| Pin 4mm clearance_0.30 shaft 3.80 | 1 | 12.000 × 8.000 | Baked 0°; no additional rotation |
+| Pin 5mm clearance_0.15 shaft 5.10 | 1 | 12.000 × 8.000 | Baked 0°; no additional rotation |
+| Pin 5mm clearance_0.20 shaft 5.00 | 1 | 12.000 × 8.000 | Baked 0°; no additional rotation |
+| Pin 5mm clearance_0.25 shaft 4.90 | 1 | 12.000 × 8.000 | Baked 0°; no additional rotation |
+| Pin 5mm clearance_0.30 shaft 4.80 | 1 | 12.000 × 8.000 | Baked 0°; no additional rotation |
 
 ## Plate 02: Canonical fit tests and sample production keys
 
@@ -186,7 +199,7 @@ Footprint: **195.079 × 195.127 mm**. Margins L/R/F/B: **30.461 / 30.461 / 30.43
 
 ## Planning notes
 
-The prototype combined STL contains fourteen disconnected parts whose internal 8.3 mm spacing is already validated. The plan does not auto-arrange its internal pieces.
+Plate 01 places all fourteen prototype source STLs individually at their exported orientations. The combined prototype STL is an alternative convenience file, but is not separately planned because it duplicates these parts.
 
 Melemele Q1 and Q2 are the only production quadrants intentionally paired. Their shared plate is geometrically valid at the configured spacing but has a close edge margin; every other quadrant remains alone to preserve its baked orientation and give reliable adhesion room.
 
