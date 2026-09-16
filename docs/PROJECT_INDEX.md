@@ -12,6 +12,8 @@ If a task does not explicitly request a historical prototype, always use **`outp
 | Gameplay-space manifest guide | `docs/GAMEPLAY_SPACE_MANIFEST.md` |
 | Neutral racer size/crowding sandbox | `output/CURRENT/racers/` and `output/CURRENT/blender/racers/` |
 | Racer sandbox guide | `docs/RACER_PROTOTYPES.md` |
+| Ulaula full-board sloped-lap experiment | `output/CURRENT/prototype/ulaula_sloped_full_board/` |
+| Ulaula sloped-lap experiment guide | `docs/ULAULA_SLOPED_FULL_BOARD_EXPERIMENT.md` |
 | Visual socket/quadrant catalog | `output/CURRENT/catalog/index.html` |
 | Regression checks and CI | `docs/REGRESSION_CHECKS.md` |
 | Current physical lock test | `output/CURRENT/prototype/sloped_lap_2x1/` |

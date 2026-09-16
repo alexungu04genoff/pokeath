@@ -13,3 +13,5 @@ tmp/
 /output/**/*.pdf
 /output/**/*.zip
 /output/*.zip
+# Large generated experimental reference scenes remain reproducible from their generators.
+/output/CURRENT/prototype/**/*.obj

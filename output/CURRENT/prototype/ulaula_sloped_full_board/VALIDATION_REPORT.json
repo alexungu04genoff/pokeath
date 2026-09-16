@@ -1,0 +1,111 @@
+{
+  "label": "EXPERIMENTAL / NOT PRODUCTION / PHYSICAL TEST PENDING",
+  "board": "Ulaula",
+  "canonical_gameplay_dimensions": {
+    "pitch": 38,
+    "socket": [
+      36,
+      36
+    ],
+    "depth": 3,
+    "radius": 2,
+    "divider": 2,
+    "rim": 6,
+    "thickness": 10
+  },
+  "quadrants": [
+    {
+      "quadrant": 1,
+      "xyz_mm": [
+        200.694,
+        175.257,
+        10.0
+      ],
+      "max_xy_mm": 200.694,
+      "fits_A1": true,
+      "print_rotation_degrees": 5.18
+    },
+    {
+      "quadrant": 2,
+      "xyz_mm": [
+        182.865,
+        182.909,
+        10.0
+      ],
+      "max_xy_mm": 182.909,
+      "fits_A1": true,
+      "print_rotation_degrees": 64.58
+    },
+    {
+      "quadrant": 3,
+      "xyz_mm": [
+        205.135,
+        205.166,
+        10.0
+      ],
+      "max_xy_mm": 205.166,
+      "fits_A1": true,
+      "print_rotation_degrees": 0.14
+    },
+    {
+      "quadrant": 4,
+      "xyz_mm": [
+        207.16,
+        207.142,
+        10.0
+      ],
+      "max_xy_mm": 207.16,
+      "fits_A1": true,
+      "print_rotation_degrees": 89.18
+    }
+  ],
+  "joints": [
+    {
+      "owners": [
+        1,
+        3
+      ],
+      "pin_center_assembly_mm": [
+        38.512,
+        204.015
+      ],
+      "pin_holes_aligned": true,
+      "final_collision_mm3": 93.11909454183122,
+      "assembly_path_samples": 33,
+      "max_path_collision_mm3": 93.11909454183122
+    },
+    {
+      "owners": [
+        2,
+        4
+      ],
+      "pin_center_assembly_mm": [
+        427.764,
+        204.015
+      ],
+      "pin_holes_aligned": true,
+      "final_collision_mm3": 447.3814028174135,
+      "assembly_path_samples": 33,
+      "max_path_collision_mm3": 447.3814028174135
+    },
+    {
+      "owners": [
+        3,
+        4
+      ],
+      "pin_center_assembly_mm": [
+        233.346,
+        398.821
+      ],
+      "pin_holes_aligned": true,
+      "final_collision_mm3": 93.20532924275115,
+      "assembly_path_samples": 33,
+      "max_path_collision_mm3": 93.20532924275115
+    }
+  ],
+  "assembly_path_passed": false,
+  "support_requirements": "45\u00b0 wedges: near-support-free prediction; inspect 4.4 mm bore bridges. Pins head-down/shaft-up: support-free prediction.",
+  "canonical_production_hashes_unchanged": true,
+  "old_snap_lock_removed_from_experimental_rebuild": true,
+  "physical_approval": false
+}
