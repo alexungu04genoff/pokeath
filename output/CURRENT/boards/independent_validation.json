@@ -1,0 +1,356 @@
+{
+  "passed": true,
+  "finished_STLs_checked": 24,
+  "universal_socket_floors_checked": 127,
+  "floor_geometry_tolerance_mm": 0.01,
+  "files": [
+    {
+      "file": "output\\CURRENT\\boards\\Akala\\quadrant_1.stl",
+      "xyz_mm": [
+        194.241,
+        194.878,
+        10.0
+      ],
+      "manifold_edges": true,
+      "watertight": true,
+      "fits_A1": true
+    },
+    {
+      "file": "output\\CURRENT\\boards\\Akala\\quadrant_2.stl",
+      "xyz_mm": [
+        193.187,
+        193.21,
+        10.0
+      ],
+      "manifold_edges": true,
+      "watertight": true,
+      "fits_A1": true
+    },
+    {
+      "file": "output\\CURRENT\\boards\\Akala\\quadrant_3.stl",
+      "xyz_mm": [
+        226.552,
+        226.525,
+        10.0
+      ],
+      "manifold_edges": true,
+      "watertight": true,
+      "fits_A1": true
+    },
+    {
+      "file": "output\\CURRENT\\boards\\Akala\\quadrant_4.stl",
+      "xyz_mm": [
+        229.243,
+        229.28,
+        10.0
+      ],
+      "manifold_edges": true,
+      "watertight": true,
+      "fits_A1": true
+    },
+    {
+      "file": "output\\CURRENT\\boards\\canonical_chassis\\fit_test_lock_left.stl",
+      "xyz_mm": [
+        34.0,
+        12.875,
+        10.0
+      ],
+      "manifold_edges": true,
+      "watertight": true,
+      "fits_A1": true
+    },
+    {
+      "file": "output\\CURRENT\\boards\\canonical_chassis\\fit_test_lock_right.stl",
+      "xyz_mm": [
+        34.0,
+        12.875,
+        10.0
+      ],
+      "manifold_edges": true,
+      "watertight": true,
+      "fits_A1": true
+    },
+    {
+      "file": "output\\CURRENT\\boards\\canonical_chassis\\snap_key_print_3_per_board.stl",
+      "xyz_mm": [
+        34.0,
+        10.4,
+        3.0
+      ],
+      "manifold_edges": true,
+      "watertight": true,
+      "fits_A1": true
+    },
+    {
+      "file": "output\\CURRENT\\boards\\fit_test\\blank_test_tile_0.15mm_per_side_1_dots.stl",
+      "xyz_mm": [
+        35.7,
+        35.7,
+        2.8
+      ],
+      "manifold_edges": true,
+      "watertight": true,
+      "fits_A1": true
+    },
+    {
+      "file": "output\\CURRENT\\boards\\fit_test\\blank_test_tile_0.20mm_per_side_2_dots.stl",
+      "xyz_mm": [
+        35.6,
+        35.6,
+        2.8
+      ],
+      "manifold_edges": true,
+      "watertight": true,
+      "fits_A1": true
+    },
+    {
+      "file": "output\\CURRENT\\boards\\fit_test\\blank_test_tile_0.25mm_per_side_3_dots.stl",
+      "xyz_mm": [
+        35.5,
+        35.5,
+        2.8
+      ],
+      "manifold_edges": true,
+      "watertight": true,
+      "fits_A1": true
+    },
+    {
+      "file": "output\\CURRENT\\boards\\fit_test\\blank_test_tile_0.30mm_per_side_4_dots.stl",
+      "xyz_mm": [
+        35.4,
+        35.4,
+        2.8
+      ],
+      "manifold_edges": true,
+      "watertight": true,
+      "fits_A1": true
+    },
+    {
+      "file": "output\\CURRENT\\boards\\fit_test\\four_identical_socket_coupon.stl",
+      "xyz_mm": [
+        86.0,
+        86.0,
+        10.0
+      ],
+      "manifold_edges": true,
+      "watertight": true,
+      "fits_A1": true
+    },
+    {
+      "file": "output\\CURRENT\\boards\\Melemele\\quadrant_1.stl",
+      "xyz_mm": [
+        156.878,
+        118.878,
+        10.0
+      ],
+      "manifold_edges": true,
+      "watertight": true,
+      "fits_A1": true
+    },
+    {
+      "file": "output\\CURRENT\\boards\\Melemele\\quadrant_2.stl",
+      "xyz_mm": [
+        156.878,
+        118.878,
+        10.0
+      ],
+      "manifold_edges": true,
+      "watertight": true,
+      "fits_A1": true
+    },
+    {
+      "file": "output\\CURRENT\\boards\\Melemele\\quadrant_3.stl",
+      "xyz_mm": [
+        194.878,
+        157.227,
+        10.0
+      ],
+      "manifold_edges": true,
+      "watertight": true,
+      "fits_A1": true
+    },
+    {
+      "file": "output\\CURRENT\\boards\\Melemele\\quadrant_4.stl",
+      "xyz_mm": [
+        200.445,
+        157.227,
+        10.0
+      ],
+      "manifold_edges": true,
+      "watertight": true,
+      "fits_A1": true
+    },
+    {
+      "file": "output\\CURRENT\\boards\\Poni\\quadrant_1.stl",
+      "xyz_mm": [
+        194.241,
+        202.371,
+        10.0
+      ],
+      "manifold_edges": true,
+      "watertight": true,
+      "fits_A1": true
+    },
+    {
+      "file": "output\\CURRENT\\boards\\Poni\\quadrant_2.stl",
+      "xyz_mm": [
+        194.878,
+        194.241,
+        10.0
+      ],
+      "manifold_edges": true,
+      "watertight": true,
+      "fits_A1": true
+    },
+    {
+      "file": "output\\CURRENT\\boards\\Poni\\quadrant_3.stl",
+      "xyz_mm": [
+        219.996,
+        220.012,
+        10.0
+      ],
+      "manifold_edges": true,
+      "watertight": true,
+      "fits_A1": true
+    },
+    {
+      "file": "output\\CURRENT\\boards\\Poni\\quadrant_4.stl",
+      "xyz_mm": [
+        220.77,
+        220.75,
+        10.0
+      ],
+      "manifold_edges": true,
+      "watertight": true,
+      "fits_A1": true
+    },
+    {
+      "file": "output\\CURRENT\\boards\\Ulaula\\quadrant_1.stl",
+      "xyz_mm": [
+        194.878,
+        164.327,
+        10.0
+      ],
+      "manifold_edges": true,
+      "watertight": true,
+      "fits_A1": true
+    },
+    {
+      "file": "output\\CURRENT\\boards\\Ulaula\\quadrant_2.stl",
+      "xyz_mm": [
+        173.878,
+        173.898,
+        10.0
+      ],
+      "manifold_edges": true,
+      "watertight": true,
+      "fits_A1": true
+    },
+    {
+      "file": "output\\CURRENT\\boards\\Ulaula\\quadrant_3.stl",
+      "xyz_mm": [
+        194.878,
+        195.227,
+        10.0
+      ],
+      "manifold_edges": true,
+      "watertight": true,
+      "fits_A1": true
+    },
+    {
+      "file": "output\\CURRENT\\boards\\Ulaula\\quadrant_4.stl",
+      "xyz_mm": [
+        195.079,
+        195.127,
+        10.0
+      ],
+      "manifold_edges": true,
+      "watertight": true,
+      "fits_A1": true
+    }
+  ],
+  "physical_tile_clearance_selected": false,
+  "gameplay_tiles_generated": false,
+  "finished_STL_rim_measurements": [
+    {
+      "board": "Akala",
+      "quadrant": 1,
+      "finished_STL_minimum_external_rim_mm": 6.001
+    },
+    {
+      "board": "Akala",
+      "quadrant": 2,
+      "finished_STL_minimum_external_rim_mm": 6.001
+    },
+    {
+      "board": "Akala",
+      "quadrant": 3,
+      "finished_STL_minimum_external_rim_mm": 6.001
+    },
+    {
+      "board": "Akala",
+      "quadrant": 4,
+      "finished_STL_minimum_external_rim_mm": 6.001
+    },
+    {
+      "board": "Melemele",
+      "quadrant": 1,
+      "finished_STL_minimum_external_rim_mm": 6.001
+    },
+    {
+      "board": "Melemele",
+      "quadrant": 2,
+      "finished_STL_minimum_external_rim_mm": 6.001
+    },
+    {
+      "board": "Melemele",
+      "quadrant": 3,
+      "finished_STL_minimum_external_rim_mm": 6.001
+    },
+    {
+      "board": "Melemele",
+      "quadrant": 4,
+      "finished_STL_minimum_external_rim_mm": 6.001
+    },
+    {
+      "board": "Poni",
+      "quadrant": 1,
+      "finished_STL_minimum_external_rim_mm": 6.001
+    },
+    {
+      "board": "Poni",
+      "quadrant": 2,
+      "finished_STL_minimum_external_rim_mm": 6.001
+    },
+    {
+      "board": "Poni",
+      "quadrant": 3,
+      "finished_STL_minimum_external_rim_mm": 6.001
+    },
+    {
+      "board": "Poni",
+      "quadrant": 4,
+      "finished_STL_minimum_external_rim_mm": 6.001
+    },
+    {
+      "board": "Ulaula",
+      "quadrant": 1,
+      "finished_STL_minimum_external_rim_mm": 6.001
+    },
+    {
+      "board": "Ulaula",
+      "quadrant": 2,
+      "finished_STL_minimum_external_rim_mm": 6.001
+    },
+    {
+      "board": "Ulaula",
+      "quadrant": 3,
+      "finished_STL_minimum_external_rim_mm": 6.001
+    },
+    {
+      "board": "Ulaula",
+      "quadrant": 4,
+      "finished_STL_minimum_external_rim_mm": 6.001
+    }
+  ]
+}

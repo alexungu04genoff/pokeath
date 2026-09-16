@@ -1,0 +1,1729 @@
+{
+  "pitch_mm": 38.0,
+  "brim_included": false,
+  "stl_dimensions_include_all_integral_geometry": true,
+  "export_vertex_weld_tolerance_mm": 0.0025,
+  "keys_printed_separately": true,
+  "largest_quadrant_xy_dimension_mm": 229.28,
+  "recommendation": "Canonical 38 mm chassis; tile clearance awaits physical fit test",
+  "boards": [
+    {
+      "board": "Akala",
+      "pitch_mm": 38.0,
+      "nominal_well_mm": [
+        36.0,
+        36.0
+      ],
+      "internal_divider_mm": 2,
+      "minimum_outer_rim_mm": 6.001,
+      "quadrants": [
+        {
+          "quadrant": 1,
+          "file": "output\\CURRENT\\boards\\Akala\\quadrant_1.stl",
+          "print_rotation_degrees": 0.0,
+          "stl_xy_mm": [
+            194.241,
+            194.878
+          ],
+          "z_mm": 10.0,
+          "maximum_xy_mm": 194.878,
+          "grid_pitch_mm": 38.0,
+          "usable_socket_mm": [
+            36.0,
+            36.0
+          ],
+          "socket_depth_mm": 3.0,
+          "socket_radius_mm": 2.0,
+          "divider_width_mm": 2.0,
+          "seam_clearance_mm": 0.25,
+          "snap_engagement_mm": 0.8,
+          "spring_tongue_mm": 1.0,
+          "rail_lateral_clearance_mm": 0.3,
+          "rail_roof_clearance_mm": 1.2,
+          "all_sockets_whole": true,
+          "watertight_manifold": true,
+          "fits_A1_256mm": true,
+          "meets_248mm_target": true,
+          "assembly_to_print_transform": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              -125.09398651123047
+            ],
+            [
+              0.0,
+              -1.0,
+              0.0,
+              202.87879943847656
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "socket_ids": [
+            "R0C1",
+            "R0C2",
+            "R0C3",
+            "R0C4",
+            "R1C1",
+            "R2C1",
+            "R3C1",
+            "R4C1"
+          ],
+          "socket_centers_assembly_mm": [
+            [
+              186.4600760456274,
+              32.003802281368834
+            ],
+            [
+              224.46007604562743,
+              32.003802281368834
+            ],
+            [
+              262.46007604562755,
+              32.00380228136884
+            ],
+            [
+              300.4600760456274,
+              32.00380228136881
+            ],
+            [
+              186.46007604562743,
+              70.00380228136882
+            ],
+            [
+              186.46007604562743,
+              108.00380228136885
+            ],
+            [
+              186.46007604562737,
+              146.00380228136888
+            ],
+            [
+              186.46007604562737,
+              184.003802281369
+            ]
+          ],
+          "xy_with_installed_loose_keys_mm": [
+            198.294,
+            200.203
+          ],
+          "minimum_outer_rim_mm": 6.001,
+          "socket_count": 8
+        },
+        {
+          "quadrant": 2,
+          "file": "output\\CURRENT\\boards\\Akala\\quadrant_2.stl",
+          "print_rotation_degrees": 46.1,
+          "stl_xy_mm": [
+            193.187,
+            193.21
+          ],
+          "z_mm": 10.0,
+          "maximum_xy_mm": 193.21,
+          "grid_pitch_mm": 38.0,
+          "usable_socket_mm": [
+            36.0,
+            36.0
+          ],
+          "socket_depth_mm": 3.0,
+          "socket_radius_mm": 2.0,
+          "divider_width_mm": 2.0,
+          "seam_clearance_mm": 0.25,
+          "snap_engagement_mm": 0.8,
+          "spring_tongue_mm": 1.0,
+          "rail_lateral_clearance_mm": 0.3,
+          "rail_roof_clearance_mm": 1.2,
+          "all_sockets_whole": true,
+          "watertight_manifold": true,
+          "fits_A1_256mm": true,
+          "meets_248mm_target": true,
+          "assembly_to_print_transform": [
+            [
+              0.693401828275813,
+              -0.7205511116803304,
+              0.0,
+              -75.41633637552957
+            ],
+            [
+              -0.7205511116803304,
+              -0.693401828275813,
+              0.0,
+              429.1420698077823
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "socket_ids": [
+            "R0C5",
+            "R0C6",
+            "R1C6",
+            "R2C6",
+            "R3C6",
+            "R4C6"
+          ],
+          "socket_centers_assembly_mm": [
+            [
+              338.46007604562726,
+              32.00380228136881
+            ],
+            [
+              376.4600760456273,
+              32.00380228136881
+            ],
+            [
+              376.46007604562743,
+              70.00380228136876
+            ],
+            [
+              376.46007604562743,
+              108.0038022813688
+            ],
+            [
+              376.46007604562726,
+              146.0038022813688
+            ],
+            [
+              376.4600760456274,
+              184.0038022813687
+            ]
+          ],
+          "xy_with_installed_loose_keys_mm": [
+            193.187,
+            199.785
+          ],
+          "minimum_outer_rim_mm": 6.001,
+          "socket_count": 6
+        },
+        {
+          "quadrant": 3,
+          "file": "output\\CURRENT\\boards\\Akala\\quadrant_3.stl",
+          "print_rotation_degrees": 41.94,
+          "stl_xy_mm": [
+            226.552,
+            226.525
+          ],
+          "z_mm": 10.0,
+          "maximum_xy_mm": 226.552,
+          "grid_pitch_mm": 38.0,
+          "usable_socket_mm": [
+            36.0,
+            36.0
+          ],
+          "socket_depth_mm": 3.0,
+          "socket_radius_mm": 2.0,
+          "divider_width_mm": 2.0,
+          "seam_clearance_mm": 0.25,
+          "snap_engagement_mm": 0.8,
+          "spring_tongue_mm": 1.0,
+          "rail_lateral_clearance_mm": 0.3,
+          "rail_roof_clearance_mm": 1.2,
+          "all_sockets_whole": true,
+          "watertight_manifold": true,
+          "fits_A1_256mm": true,
+          "meets_248mm_target": true,
+          "assembly_to_print_transform": [
+            [
+              0.7438451298070251,
+              -0.668352020167793,
+              0.0,
+              209.57604319919454
+            ],
+            [
+              -0.668352020167793,
+              -0.7438451298070251,
+              0.0,
+              461.15928783909857
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "socket_ids": [
+            "R5C0",
+            "R5C1",
+            "R6C0",
+            "R7C0",
+            "R9C1",
+            "R10C1"
+          ],
+          "socket_centers_assembly_mm": [
+            [
+              148.46007604562735,
+              222.00380228136885
+            ],
+            [
+              186.46007604562737,
+              222.00380228136885
+            ],
+            [
+              148.46007604562743,
+              260.00380228136873
+            ],
+            [
+              148.46007604562746,
+              298.0038022813689
+            ],
+            [
+              186.4600760456274,
+              374.0038022813689
+            ],
+            [
+              186.4600760456274,
+              412.0038022813691
+            ]
+          ],
+          "xy_with_installed_loose_keys_mm": [
+            226.552,
+            239.624
+          ],
+          "minimum_outer_rim_mm": 6.001,
+          "socket_count": 6
+        },
+        {
+          "quadrant": 4,
+          "file": "output\\CURRENT\\boards\\Akala\\quadrant_4.stl",
+          "print_rotation_degrees": 9.16,
+          "stl_xy_mm": [
+            229.243,
+            229.28
+          ],
+          "z_mm": 10.0,
+          "maximum_xy_mm": 229.28,
+          "grid_pitch_mm": 38.0,
+          "usable_socket_mm": [
+            36.0,
+            36.0
+          ],
+          "socket_depth_mm": 3.0,
+          "socket_radius_mm": 2.0,
+          "divider_width_mm": 2.0,
+          "seam_clearance_mm": 0.25,
+          "snap_engagement_mm": 0.8,
+          "spring_tongue_mm": 1.0,
+          "rail_lateral_clearance_mm": 0.3,
+          "rail_roof_clearance_mm": 1.2,
+          "all_sockets_whole": true,
+          "watertight_manifold": true,
+          "fits_A1_256mm": true,
+          "meets_248mm_target": true,
+          "assembly_to_print_transform": [
+            [
+              0.9872476426302981,
+              -0.15919199766608666,
+              0.0,
+              -133.65594016391222
+            ],
+            [
+              -0.15919199766608666,
+              -0.9872476426302981,
+              0.0,
+              462.54568217621204
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "socket_ids": [
+            "R5C5",
+            "R5C6",
+            "R6C4",
+            "R6C5",
+            "R7C4",
+            "R8C4",
+            "R9C2",
+            "R9C3",
+            "R9C4"
+          ],
+          "socket_centers_assembly_mm": [
+            [
+              338.46007604562715,
+              222.0038022813687
+            ],
+            [
+              376.4600760456274,
+              222.0038022813687
+            ],
+            [
+              300.4600760456275,
+              260.0038022813689
+            ],
+            [
+              338.46007604562755,
+              260.0038022813689
+            ],
+            [
+              300.4600760456275,
+              298.00380228136885
+            ],
+            [
+              300.4600760456275,
+              336.00380228136913
+            ],
+            [
+              224.4600760456274,
+              374.0038022813689
+            ],
+            [
+              262.4600760456274,
+              374.00380228136885
+            ],
+            [
+              300.4600760456275,
+              374.003802281369
+            ]
+          ],
+          "xy_with_installed_loose_keys_mm": [
+            239.942,
+            234.088
+          ],
+          "minimum_outer_rim_mm": 6.001,
+          "socket_count": 9
+        }
+      ],
+      "playable_socket_count": 29
+    },
+    {
+      "board": "Melemele",
+      "pitch_mm": 38.0,
+      "nominal_well_mm": [
+        36.0,
+        36.0
+      ],
+      "internal_divider_mm": 2,
+      "minimum_outer_rim_mm": 6.001,
+      "quadrants": [
+        {
+          "quadrant": 1,
+          "file": "output\\CURRENT\\boards\\Melemele\\quadrant_1.stl",
+          "print_rotation_degrees": 0.0,
+          "stl_xy_mm": [
+            156.878,
+            118.878
+          ],
+          "z_mm": 10.0,
+          "maximum_xy_mm": 156.878,
+          "grid_pitch_mm": 38.0,
+          "usable_socket_mm": [
+            36.0,
+            36.0
+          ],
+          "socket_depth_mm": 3.0,
+          "socket_radius_mm": 2.0,
+          "divider_width_mm": 2.0,
+          "seam_clearance_mm": 0.25,
+          "snap_engagement_mm": 0.8,
+          "spring_tongue_mm": 1.0,
+          "rail_lateral_clearance_mm": 0.3,
+          "rail_roof_clearance_mm": 1.2,
+          "all_sockets_whole": true,
+          "watertight_manifold": true,
+          "fits_A1_256mm": true,
+          "meets_248mm_target": true,
+          "assembly_to_print_transform": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              -38.343013763427734
+            ],
+            [
+              0.0,
+              -1.0,
+              0.0,
+              203.45675659179688
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "socket_ids": [
+            "R0C1",
+            "R0C2",
+            "R0C3",
+            "R1C0",
+            "R1C1",
+            "R2C0"
+          ],
+          "socket_centers_assembly_mm": [
+            [
+              100.34600760456273,
+              108.58174904942973
+            ],
+            [
+              138.3460076045627,
+              108.58174904942972
+            ],
+            [
+              176.34600760456283,
+              108.5817490494297
+            ],
+            [
+              62.34600760456276,
+              146.58174904942976
+            ],
+            [
+              100.34600760456274,
+              146.5817490494298
+            ],
+            [
+              62.34600760456276,
+              184.58174904942973
+            ]
+          ],
+          "xy_with_installed_loose_keys_mm": [
+            160.68,
+            124.203
+          ],
+          "minimum_outer_rim_mm": 6.001,
+          "socket_count": 6
+        },
+        {
+          "quadrant": 2,
+          "file": "output\\CURRENT\\boards\\Melemele\\quadrant_2.stl",
+          "print_rotation_degrees": 0.0,
+          "stl_xy_mm": [
+            156.878,
+            118.878
+          ],
+          "z_mm": 10.0,
+          "maximum_xy_mm": 156.878,
+          "grid_pitch_mm": 38.0,
+          "usable_socket_mm": [
+            36.0,
+            36.0
+          ],
+          "socket_depth_mm": 3.0,
+          "socket_radius_mm": 2.0,
+          "divider_width_mm": 2.0,
+          "seam_clearance_mm": 0.25,
+          "snap_engagement_mm": 0.8,
+          "spring_tongue_mm": 1.0,
+          "rail_lateral_clearance_mm": 0.3,
+          "rail_roof_clearance_mm": 1.2,
+          "all_sockets_whole": true,
+          "watertight_manifold": true,
+          "fits_A1_256mm": true,
+          "meets_248mm_target": true,
+          "assembly_to_print_transform": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              -195.47100830078125
+            ],
+            [
+              0.0,
+              -1.0,
+              0.0,
+              203.45675659179688
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "socket_ids": [
+            "R0C4",
+            "R0C5",
+            "R0C6",
+            "R1C6",
+            "R1C7",
+            "R2C7"
+          ],
+          "socket_centers_assembly_mm": [
+            [
+              214.34600760456286,
+              108.5817490494297
+            ],
+            [
+              252.34600760456274,
+              108.58174904942967
+            ],
+            [
+              290.3460076045626,
+              108.58174904942967
+            ],
+            [
+              290.34600760456254,
+              146.58174904942953
+            ],
+            [
+              328.34600760456254,
+              146.58174904942953
+            ],
+            [
+              328.34600760456254,
+              184.5817490494296
+            ]
+          ],
+          "xy_with_installed_loose_keys_mm": [
+            160.725,
+            124.203
+          ],
+          "minimum_outer_rim_mm": 6.001,
+          "socket_count": 6
+        },
+        {
+          "quadrant": 3,
+          "file": "output\\CURRENT\\boards\\Melemele\\quadrant_3.stl",
+          "print_rotation_degrees": 0.0,
+          "stl_xy_mm": [
+            194.878,
+            157.227
+          ],
+          "z_mm": 10.0,
+          "maximum_xy_mm": 194.878,
+          "grid_pitch_mm": 38.0,
+          "usable_socket_mm": [
+            36.0,
+            36.0
+          ],
+          "socket_depth_mm": 3.0,
+          "socket_radius_mm": 2.0,
+          "divider_width_mm": 2.0,
+          "seam_clearance_mm": 0.25,
+          "snap_engagement_mm": 0.8,
+          "spring_tongue_mm": 1.0,
+          "rail_lateral_clearance_mm": 0.3,
+          "rail_roof_clearance_mm": 1.2,
+          "all_sockets_whole": true,
+          "watertight_manifold": true,
+          "fits_A1_256mm": true,
+          "meets_248mm_target": true,
+          "assembly_to_print_transform": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              -38.3430061340332
+            ],
+            [
+              0.0,
+              -1.0,
+              0.0,
+              360.5847473144531
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "socket_ids": [
+            "R3C0",
+            "R4C0",
+            "R5C0",
+            "R5C1",
+            "R5C2",
+            "R5C3",
+            "R6C3",
+            "R6C4"
+          ],
+          "socket_centers_assembly_mm": [
+            [
+              62.34600760456276,
+              222.58174904942976
+            ],
+            [
+              62.34600760456278,
+              260.5817490494298
+            ],
+            [
+              62.34600760456278,
+              298.58174904942985
+            ],
+            [
+              100.34600760456283,
+              298.5817490494297
+            ],
+            [
+              138.34600760456271,
+              298.58174904942973
+            ],
+            [
+              176.34600760456283,
+              298.58174904942973
+            ],
+            [
+              176.34600760456283,
+              336.58174904942956
+            ],
+            [
+              214.34600760456289,
+              336.58174904942956
+            ]
+          ],
+          "xy_with_installed_loose_keys_mm": [
+            204.005,
+            166.047
+          ],
+          "minimum_outer_rim_mm": 6.001,
+          "socket_count": 8
+        },
+        {
+          "quadrant": 4,
+          "file": "output\\CURRENT\\boards\\Melemele\\quadrant_4.stl",
+          "print_rotation_degrees": 0.0,
+          "stl_xy_mm": [
+            200.445,
+            157.227
+          ],
+          "z_mm": 10.0,
+          "maximum_xy_mm": 200.445,
+          "grid_pitch_mm": 38.0,
+          "usable_socket_mm": [
+            36.0,
+            36.0
+          ],
+          "socket_depth_mm": 3.0,
+          "socket_radius_mm": 2.0,
+          "divider_width_mm": 2.0,
+          "seam_clearance_mm": 0.25,
+          "snap_engagement_mm": 0.8,
+          "spring_tongue_mm": 1.0,
+          "rail_lateral_clearance_mm": 0.3,
+          "rail_roof_clearance_mm": 1.2,
+          "all_sockets_whole": true,
+          "watertight_manifold": true,
+          "fits_A1_256mm": true,
+          "meets_248mm_target": true,
+          "assembly_to_print_transform": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              -233.47100830078125
+            ],
+            [
+              0.0,
+              -1.0,
+              0.0,
+              360.5847473144531
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "socket_ids": [
+            "R3C5",
+            "R3C6",
+            "R3C7",
+            "R5C8",
+            "R5C9",
+            "R6C5",
+            "R6C6",
+            "R6C7",
+            "R6C8"
+          ],
+          "socket_centers_assembly_mm": [
+            [
+              252.34600760456283,
+              222.5817490494298
+            ],
+            [
+              290.34600760456254,
+              222.58174904942965
+            ],
+            [
+              328.34600760456254,
+              222.58174904942965
+            ],
+            [
+              366.34600760456277,
+              298.5817490494297
+            ],
+            [
+              404.3460076045629,
+              298.5817490494297
+            ],
+            [
+              252.3460076045628,
+              336.5817490494295
+            ],
+            [
+              290.34600760456254,
+              336.58174904942945
+            ],
+            [
+              328.34600760456277,
+              336.58174904942945
+            ],
+            [
+              366.34600760456277,
+              336.58174904942945
+            ]
+          ],
+          "xy_with_installed_loose_keys_mm": [
+            205.77,
+            166.047
+          ],
+          "minimum_outer_rim_mm": 6.001,
+          "socket_count": 9
+        }
+      ],
+      "playable_socket_count": 29
+    },
+    {
+      "board": "Poni",
+      "pitch_mm": 38.0,
+      "nominal_well_mm": [
+        36.0,
+        36.0
+      ],
+      "internal_divider_mm": 2,
+      "minimum_outer_rim_mm": 6.001,
+      "quadrants": [
+        {
+          "quadrant": 1,
+          "file": "output\\CURRENT\\boards\\Poni\\quadrant_1.stl",
+          "print_rotation_degrees": 0.0,
+          "stl_xy_mm": [
+            194.241,
+            202.371
+          ],
+          "z_mm": 10.0,
+          "maximum_xy_mm": 202.371,
+          "grid_pitch_mm": 38.0,
+          "usable_socket_mm": [
+            36.0,
+            36.0
+          ],
+          "socket_depth_mm": 3.0,
+          "socket_radius_mm": 2.0,
+          "divider_width_mm": 2.0,
+          "seam_clearance_mm": 0.25,
+          "snap_engagement_mm": 0.8,
+          "spring_tongue_mm": 1.0,
+          "rail_lateral_clearance_mm": 0.3,
+          "rail_roof_clearance_mm": 1.2,
+          "all_sockets_whole": true,
+          "watertight_manifold": true,
+          "fits_A1_256mm": true,
+          "meets_248mm_target": true,
+          "assembly_to_print_transform": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              -69.32186126708984
+            ],
+            [
+              0.0,
+              -1.0,
+              0.0,
+              223.97386169433594
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "socket_ids": [
+            "R0C4",
+            "R1C4",
+            "R2C3",
+            "R2C4",
+            "R3C3",
+            "R4C3",
+            "R4C4"
+          ],
+          "socket_centers_assembly_mm": [
+            [
+              244.6882129277567,
+              53.09885931558935
+            ],
+            [
+              244.6882129277567,
+              91.0988593155894
+            ],
+            [
+              206.6882129277566,
+              129.09885931558938
+            ],
+            [
+              244.68821292775664,
+              129.0988593155894
+            ],
+            [
+              206.6882129277566,
+              167.09885931558927
+            ],
+            [
+              206.68821292775664,
+              205.09885931558955
+            ],
+            [
+              244.68821292775664,
+              205.0988593155895
+            ]
+          ],
+          "xy_with_installed_loose_keys_mm": [
+            198.294,
+            207.696
+          ],
+          "minimum_outer_rim_mm": 6.001,
+          "socket_count": 7
+        },
+        {
+          "quadrant": 2,
+          "file": "output\\CURRENT\\boards\\Poni\\quadrant_2.stl",
+          "print_rotation_degrees": 0.0,
+          "stl_xy_mm": [
+            194.878,
+            194.241
+          ],
+          "z_mm": 10.0,
+          "maximum_xy_mm": 194.878,
+          "grid_pitch_mm": 38.0,
+          "usable_socket_mm": [
+            36.0,
+            36.0
+          ],
+          "socket_depth_mm": 3.0,
+          "socket_radius_mm": 2.0,
+          "divider_width_mm": 2.0,
+          "seam_clearance_mm": 0.25,
+          "snap_engagement_mm": 0.8,
+          "spring_tongue_mm": 1.0,
+          "rail_lateral_clearance_mm": 0.3,
+          "rail_roof_clearance_mm": 1.2,
+          "all_sockets_whole": true,
+          "watertight_manifold": true,
+          "fits_A1_256mm": true,
+          "meets_248mm_target": true,
+          "assembly_to_print_transform": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              -263.8132019042969
+            ],
+            [
+              0.0,
+              -1.0,
+              0.0,
+              223.97386169433594
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "socket_ids": [
+            "R1C5",
+            "R1C6",
+            "R1C7",
+            "R1C8",
+            "R2C8",
+            "R2C9",
+            "R3C9",
+            "R4C8",
+            "R4C9"
+          ],
+          "socket_centers_assembly_mm": [
+            [
+              282.68821292775664,
+              91.09885931558932
+            ],
+            [
+              320.68821292775664,
+              91.09885931558932
+            ],
+            [
+              358.6882129277565,
+              91.09885931558932
+            ],
+            [
+              396.68821292775664,
+              91.09885931558932
+            ],
+            [
+              396.6882129277565,
+              129.0988593155893
+            ],
+            [
+              434.6882129277565,
+              129.0988593155893
+            ],
+            [
+              434.6882129277565,
+              167.09885931558912
+            ],
+            [
+              396.6882129277565,
+              205.0988593155893
+            ],
+            [
+              434.6882129277565,
+              205.0988593155893
+            ]
+          ],
+          "xy_with_installed_loose_keys_mm": [
+            198.293,
+            199.566
+          ],
+          "minimum_outer_rim_mm": 6.001,
+          "socket_count": 9
+        },
+        {
+          "quadrant": 3,
+          "file": "output\\CURRENT\\boards\\Poni\\quadrant_3.stl",
+          "print_rotation_degrees": 82.76,
+          "stl_xy_mm": [
+            219.996,
+            220.012
+          ],
+          "z_mm": 10.0,
+          "maximum_xy_mm": 220.012,
+          "grid_pitch_mm": 38.0,
+          "usable_socket_mm": [
+            36.0,
+            36.0
+          ],
+          "socket_depth_mm": 3.0,
+          "socket_radius_mm": 2.0,
+          "divider_width_mm": 2.0,
+          "seam_clearance_mm": 0.25,
+          "snap_engagement_mm": 0.8,
+          "spring_tongue_mm": 1.0,
+          "rail_lateral_clearance_mm": 0.3,
+          "rail_roof_clearance_mm": 1.2,
+          "all_sockets_whole": true,
+          "watertight_manifold": true,
+          "fits_A1_256mm": true,
+          "meets_248mm_target": true,
+          "assembly_to_print_transform": [
+            [
+              0.1260258296889086,
+              -0.9920269604457442,
+              0.0,
+              414.00537930221293
+            ],
+            [
+              -0.9920269604457442,
+              -0.1260258296889086,
+              0.0,
+              271.7133095378104
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "socket_ids": [
+            "R5C0",
+            "R5C1",
+            "R5C2",
+            "R6C0",
+            "R6C2",
+            "R7C0",
+            "R7C2",
+            "R7C3",
+            "R8C0"
+          ],
+          "socket_centers_assembly_mm": [
+            [
+              92.68821292775664,
+              243.0988593155894
+            ],
+            [
+              130.6882129277567,
+              243.09885931558932
+            ],
+            [
+              168.68821292775658,
+              243.09885931558946
+            ],
+            [
+              92.68821292775664,
+              281.09885931558955
+            ],
+            [
+              168.6882129277566,
+              281.0988593155894
+            ],
+            [
+              92.68821292775664,
+              319.0988593155894
+            ],
+            [
+              168.6882129277566,
+              319.0988593155893
+            ],
+            [
+              206.6882129277566,
+              319.0988593155893
+            ],
+            [
+              92.68821292775664,
+              357.09885931558915
+            ]
+          ],
+          "xy_with_installed_loose_keys_mm": [
+            219.996,
+            225.805
+          ],
+          "minimum_outer_rim_mm": 6.001,
+          "socket_count": 9
+        },
+        {
+          "quadrant": 4,
+          "file": "output\\CURRENT\\boards\\Poni\\quadrant_4.stl",
+          "print_rotation_degrees": 71.9,
+          "stl_xy_mm": [
+            220.77,
+            220.75
+          ],
+          "z_mm": 10.0,
+          "maximum_xy_mm": 220.77,
+          "grid_pitch_mm": 38.0,
+          "usable_socket_mm": [
+            36.0,
+            36.0
+          ],
+          "socket_depth_mm": 3.0,
+          "socket_radius_mm": 2.0,
+          "divider_width_mm": 2.0,
+          "seam_clearance_mm": 0.25,
+          "snap_engagement_mm": 0.8,
+          "spring_tongue_mm": 1.0,
+          "rail_lateral_clearance_mm": 0.3,
+          "rail_roof_clearance_mm": 1.2,
+          "all_sockets_whole": true,
+          "watertight_manifold": true,
+          "fits_A1_256mm": true,
+          "meets_248mm_target": true,
+          "assembly_to_print_transform": [
+            [
+              0.3106764296307317,
+              -0.9505157316277837,
+              0.0,
+              291.59107489044334
+            ],
+            [
+              -0.9505157316277837,
+              -0.3106764296307317,
+              0.0,
+              505.050241456705
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "socket_ids": [
+            "R5C4",
+            "R5C8",
+            "R6C4",
+            "R6C7",
+            "R6C8",
+            "R7C4",
+            "R7C7",
+            "R8C4",
+            "R8C5",
+            "R8C6",
+            "R8C7"
+          ],
+          "socket_centers_assembly_mm": [
+            [
+              244.68821292775655,
+              243.09885931558952
+            ],
+            [
+              396.68821292775664,
+              243.09885931558938
+            ],
+            [
+              244.68821292775655,
+              281.0988593155892
+            ],
+            [
+              358.6882129277565,
+              281.0988593155891
+            ],
+            [
+              396.68821292775664,
+              281.0988593155891
+            ],
+            [
+              244.68821292775655,
+              319.0988593155893
+            ],
+            [
+              358.6882129277565,
+              319.0988593155893
+            ],
+            [
+              244.68821292775655,
+              357.0988593155894
+            ],
+            [
+              282.68821292775687,
+              357.0988593155891
+            ],
+            [
+              320.68821292775664,
+              357.0988593155891
+            ],
+            [
+              358.6882129277565,
+              357.0988593155891
+            ]
+          ],
+          "xy_with_installed_loose_keys_mm": [
+            232.488,
+            226.177
+          ],
+          "minimum_outer_rim_mm": 6.001,
+          "socket_count": 11
+        }
+      ],
+      "playable_socket_count": 36
+    },
+    {
+      "board": "Ulaula",
+      "pitch_mm": 38.0,
+      "nominal_well_mm": [
+        36.0,
+        36.0
+      ],
+      "internal_divider_mm": 2,
+      "minimum_outer_rim_mm": 6.001,
+      "quadrants": [
+        {
+          "quadrant": 1,
+          "file": "output\\CURRENT\\boards\\Ulaula\\quadrant_1.stl",
+          "print_rotation_degrees": 0.0,
+          "stl_xy_mm": [
+            194.878,
+            164.327
+          ],
+          "z_mm": 10.0,
+          "maximum_xy_mm": 194.878,
+          "grid_pitch_mm": 38.0,
+          "usable_socket_mm": [
+            36.0,
+            36.0
+          ],
+          "socket_depth_mm": 3.0,
+          "socket_radius_mm": 2.0,
+          "divider_width_mm": 2.0,
+          "seam_clearance_mm": 0.25,
+          "snap_engagement_mm": 0.8,
+          "spring_tongue_mm": 1.0,
+          "rail_lateral_clearance_mm": 0.3,
+          "rail_roof_clearance_mm": 1.2,
+          "all_sockets_whole": true,
+          "watertight_manifold": true,
+          "fits_A1_256mm": true,
+          "meets_248mm_target": true,
+          "assembly_to_print_transform": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              -38.3430061340332
+            ],
+            [
+              0.0,
+              -1.0,
+              0.0,
+              203.8902130126953
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "socket_ids": [
+            "R0C2",
+            "R1C2",
+            "R2C0",
+            "R2C1",
+            "R2C2",
+            "R3C0",
+            "R3C3",
+            "R3C4"
+          ],
+          "socket_centers_assembly_mm": [
+            [
+              138.3460076045627,
+              71.0152091254753
+            ],
+            [
+              138.3460076045627,
+              109.01520912547534
+            ],
+            [
+              62.34600760456276,
+              147.01520912547534
+            ],
+            [
+              100.34600760456274,
+              147.0152091254753
+            ],
+            [
+              138.3460076045626,
+              147.01520912547534
+            ],
+            [
+              62.34600760456276,
+              185.01520912547545
+            ],
+            [
+              176.34600760456277,
+              185.01520912547537
+            ],
+            [
+              214.34600760456286,
+              185.01520912547537
+            ]
+          ],
+          "xy_with_installed_loose_keys_mm": [
+            198.709,
+            169.652
+          ],
+          "minimum_outer_rim_mm": 6.001,
+          "socket_count": 8
+        },
+        {
+          "quadrant": 2,
+          "file": "output\\CURRENT\\boards\\Ulaula\\quadrant_2.stl",
+          "print_rotation_degrees": 26.48,
+          "stl_xy_mm": [
+            173.878,
+            173.898
+          ],
+          "z_mm": 10.0,
+          "maximum_xy_mm": 173.898,
+          "grid_pitch_mm": 38.0,
+          "usable_socket_mm": [
+            36.0,
+            36.0
+          ],
+          "socket_depth_mm": 3.0,
+          "socket_radius_mm": 2.0,
+          "divider_width_mm": 2.0,
+          "seam_clearance_mm": 0.25,
+          "snap_engagement_mm": 0.8,
+          "spring_tongue_mm": 1.0,
+          "rail_lateral_clearance_mm": 0.3,
+          "rail_roof_clearance_mm": 1.2,
+          "all_sockets_whole": true,
+          "watertight_manifold": true,
+          "fits_A1_256mm": true,
+          "meets_248mm_target": true,
+          "assembly_to_print_transform": [
+            [
+              0.8950900594954226,
+              -0.44588539490824397,
+              0.0,
+              -118.06591056331098
+            ],
+            [
+              -0.44588539490824397,
+              -0.8950900594954226,
+              0.0,
+              373.21106125442725
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "socket_ids": [
+            "R3C5",
+            "R3C6",
+            "R3C7",
+            "R3C8"
+          ],
+          "socket_centers_assembly_mm": [
+            [
+              252.34600760456289,
+              185.01520912547537
+            ],
+            [
+              290.3460076045626,
+              185.01520912547517
+            ],
+            [
+              328.3460076045626,
+              185.01520912547517
+            ],
+            [
+              366.3460076045626,
+              185.01520912547517
+            ]
+          ],
+          "xy_with_installed_loose_keys_mm": [
+            179.753,
+            180.47
+          ],
+          "minimum_outer_rim_mm": 6.001,
+          "socket_count": 4
+        },
+        {
+          "quadrant": 3,
+          "file": "output\\CURRENT\\boards\\Ulaula\\quadrant_3.stl",
+          "print_rotation_degrees": 0.0,
+          "stl_xy_mm": [
+            194.878,
+            195.227
+          ],
+          "z_mm": 10.0,
+          "maximum_xy_mm": 195.227,
+          "grid_pitch_mm": 38.0,
+          "usable_socket_mm": [
+            36.0,
+            36.0
+          ],
+          "socket_depth_mm": 3.0,
+          "socket_radius_mm": 2.0,
+          "divider_width_mm": 2.0,
+          "seam_clearance_mm": 0.25,
+          "snap_engagement_mm": 0.8,
+          "spring_tongue_mm": 1.0,
+          "rail_lateral_clearance_mm": 0.3,
+          "rail_roof_clearance_mm": 1.2,
+          "all_sockets_whole": true,
+          "watertight_manifold": true,
+          "fits_A1_256mm": true,
+          "meets_248mm_target": true,
+          "assembly_to_print_transform": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              -38.343017578125
+            ],
+            [
+              0.0,
+              -1.0,
+              0.0,
+              399.0182189941406
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "socket_ids": [
+            "R4C0",
+            "R4C3",
+            "R5C0",
+            "R5C1",
+            "R5C2",
+            "R5C3",
+            "R6C2",
+            "R7C2",
+            "R7C3",
+            "R8C3",
+            "R8C4"
+          ],
+          "socket_centers_assembly_mm": [
+            [
+              62.34600760456276,
+              223.0152091254755
+            ],
+            [
+              176.34600760456277,
+              223.0152091254751
+            ],
+            [
+              62.34600760456278,
+              261.0152091254754
+            ],
+            [
+              100.34600760456283,
+              261.01520912547534
+            ],
+            [
+              138.34600760456271,
+              261.0152091254752
+            ],
+            [
+              176.3460076045628,
+              261.0152091254752
+            ],
+            [
+              138.34600760456271,
+              299.01520912547517
+            ],
+            [
+              138.34600760456271,
+              337.01520912547545
+            ],
+            [
+              176.34600760456283,
+              337.01520912547545
+            ],
+            [
+              176.34600760456283,
+              375.01520912547545
+            ],
+            [
+              214.34600760456289,
+              375.01520912547545
+            ]
+          ],
+          "xy_with_installed_loose_keys_mm": [
+            204.034,
+            204.006
+          ],
+          "minimum_outer_rim_mm": 6.001,
+          "socket_count": 11
+        },
+        {
+          "quadrant": 4,
+          "file": "output\\CURRENT\\boards\\Ulaula\\quadrant_4.stl",
+          "print_rotation_degrees": 0.06,
+          "stl_xy_mm": [
+            195.079,
+            195.127
+          ],
+          "z_mm": 10.0,
+          "maximum_xy_mm": 195.127,
+          "grid_pitch_mm": 38.0,
+          "usable_socket_mm": [
+            36.0,
+            36.0
+          ],
+          "socket_depth_mm": 3.0,
+          "socket_radius_mm": 2.0,
+          "divider_width_mm": 2.0,
+          "seam_clearance_mm": 0.25,
+          "snap_engagement_mm": 0.8,
+          "spring_tongue_mm": 1.0,
+          "rail_lateral_clearance_mm": 0.3,
+          "rail_roof_clearance_mm": 1.2,
+          "all_sockets_whole": true,
+          "watertight_manifold": true,
+          "fits_A1_256mm": true,
+          "meets_248mm_target": true,
+          "assembly_to_print_transform": [
+            [
+              0.9999994516886945,
+              -0.0010471973597998385,
+              0.0,
+              -233.05323571700762
+            ],
+            [
+              -0.0010471973597998385,
+              -0.9999994516886945,
+              0.0,
+              399.2990103847339
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              -0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "socket_ids": [
+            "R4C8",
+            "R4C9",
+            "R5C9",
+            "R6C7",
+            "R6C8",
+            "R6C9",
+            "R7C5",
+            "R7C6",
+            "R7C7",
+            "R8C5"
+          ],
+          "socket_centers_assembly_mm": [
+            [
+              366.3460076045625,
+              223.0152091254751
+            ],
+            [
+              404.3460076045627,
+              223.0152091254751
+            ],
+            [
+              404.3460076045629,
+              261.01520912547545
+            ],
+            [
+              328.34600760456277,
+              299.0152091254752
+            ],
+            [
+              366.34600760456277,
+              299.0152091254752
+            ],
+            [
+              404.3460076045629,
+              299.0152091254752
+            ],
+            [
+              252.3460076045628,
+              337.0152091254754
+            ],
+            [
+              290.34600760456254,
+              337.0152091254754
+            ],
+            [
+              328.34600760456277,
+              337.0152091254754
+            ],
+            [
+              252.3460076045628,
+              375.01520912547534
+            ]
+          ],
+          "xy_with_installed_loose_keys_mm": [
+            203.832,
+            203.839
+          ],
+          "minimum_outer_rim_mm": 6.001,
+          "socket_count": 10
+        }
+      ],
+      "playable_socket_count": 33
+    }
+  ],
+  "limitations": [
+    "Measured from reloaded exported STLs, not a Bambu Studio slicing run.",
+    "STL rotation is baked in. Import at 100% with no automatic reorientation.",
+    "Snap elasticity, internal support removal and physical print fit remain untested.",
+    "Fixed 6 mm track rim; non-playing scenery and staging banners may extend farther.",
+    "No gameplay tiles generated; blank fit-test tiles only."
+  ]
+}

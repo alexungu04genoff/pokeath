@@ -1,0 +1,25 @@
+{
+  "canonical_production_quadrants": {
+    "output/CURRENT/boards/Akala/quadrant_1.stl": "b561beb432bd83bc3251803e0fa6479ffce8d4cf3f836e0582c48de987abde98",
+    "output/CURRENT/boards/Akala/quadrant_2.stl": "547e0b372ae88954d0c06f3bcded40325162cd62d877157809186421a863ec74",
+    "output/CURRENT/boards/Akala/quadrant_3.stl": "9ed50e06537e4017f15628481de18d91356b0c28eae28487cf848907f070ea15",
+    "output/CURRENT/boards/Akala/quadrant_4.stl": "1a4ec23434b04b54052cce7370cf3ae32269c059ab2ca85d582f4af0b0cd4fcc",
+    "output/CURRENT/boards/Melemele/quadrant_1.stl": "3548f13fbf043064541066e6638fb4bab62528c5223fdfc7672ad5d46233ded0",
+    "output/CURRENT/boards/Melemele/quadrant_2.stl": "902689e88a0bd2b8fec8fb713ed78829acfd53042f6a97cc5bc5a4bedf08bf8e",
+    "output/CURRENT/boards/Melemele/quadrant_3.stl": "6ff1fc3c0f99b8180e9059bb286d8baef9fc4844593fbac6490f0487b2099cf8",
+    "output/CURRENT/boards/Melemele/quadrant_4.stl": "9d867e321b36f86dd5cab8482e63b0567782c27f148c58df84d24e14b1e0c7f0",
+    "output/CURRENT/boards/Poni/quadrant_1.stl": "aa8fb3b9df98d92199e7a0c5a9923d782f70543b1e4566557ef2db5aad6bb736",
+    "output/CURRENT/boards/Poni/quadrant_2.stl": "435ccd8f9627d2aeacbdef5282e60d34d887e7a82d62b892457564ff83ff3178",
+    "output/CURRENT/boards/Poni/quadrant_3.stl": "7f945b5bc00dceb813695fe99bf4157f040fe325684e09c89706ee558f391f4f",
+    "output/CURRENT/boards/Poni/quadrant_4.stl": "cca9a5d262c6146bb2ca69746669db79eeca6c511fcf26bfa9f155c23d9c83c1",
+    "output/CURRENT/boards/Ulaula/quadrant_1.stl": "e9bb2f1e1c1821f9323cae283edd0a750e38ad712e15a74ae33c318e0bd7779c",
+    "output/CURRENT/boards/Ulaula/quadrant_2.stl": "5937e3fc77d2dfa51ecb1a29b80677a2bd645d7f6bb920ea3e0209380bc2c78d",
+    "output/CURRENT/boards/Ulaula/quadrant_3.stl": "1bfc222e4ac6bfef0845b86b39d717200ea322218b1cec342c9b609736ca74fe",
+    "output/CURRENT/boards/Ulaula/quadrant_4.stl": "1eb7a471023413782d6cc2e90131ac4077be9cfb5e7235a4c60d2321b680746f"
+  },
+  "current_sloped_lap_prototype": {
+    "output/CURRENT/prototype/sloped_lap_2x1/prototype_2x1_ALL_COMPONENTS_A1.stl": "b1b53c08d7a0d78d722a0cdf11a02adc9942a48ecf462bbbb89de03d2cf60550",
+    "output/CURRENT/prototype/sloped_lap_2x1/prototype_2x1_part_A.stl": "84f43512a01ea60707d800dfb4d3516a22b329a816592c0d2a66b5a3f91ea3f3",
+    "output/CURRENT/prototype/sloped_lap_2x1/prototype_2x1_part_B.stl": "920ad894a3356e26de83647521e05d9d6a47bd48cf6f4baab2ebae13b4a44b42"
+  }
+}

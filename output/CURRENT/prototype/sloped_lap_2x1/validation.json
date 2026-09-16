@@ -1,0 +1,354 @@
+{
+  "passed": true,
+  "canonical_gameplay_dimensions_unchanged": true,
+  "production_quadrants_unchanged": true,
+  "production_sha256": {
+    "output\\CURRENT\\boards\\Akala\\quadrant_1.stl": "b561beb432bd83bc3251803e0fa6479ffce8d4cf3f836e0582c48de987abde98",
+    "output\\CURRENT\\boards\\Akala\\quadrant_2.stl": "547e0b372ae88954d0c06f3bcded40325162cd62d877157809186421a863ec74",
+    "output\\CURRENT\\boards\\Akala\\quadrant_3.stl": "9ed50e06537e4017f15628481de18d91356b0c28eae28487cf848907f070ea15",
+    "output\\CURRENT\\boards\\Akala\\quadrant_4.stl": "1a4ec23434b04b54052cce7370cf3ae32269c059ab2ca85d582f4af0b0cd4fcc",
+    "output\\CURRENT\\boards\\Melemele\\quadrant_1.stl": "3548f13fbf043064541066e6638fb4bab62528c5223fdfc7672ad5d46233ded0",
+    "output\\CURRENT\\boards\\Melemele\\quadrant_2.stl": "902689e88a0bd2b8fec8fb713ed78829acfd53042f6a97cc5bc5a4bedf08bf8e",
+    "output\\CURRENT\\boards\\Melemele\\quadrant_3.stl": "6ff1fc3c0f99b8180e9059bb286d8baef9fc4844593fbac6490f0487b2099cf8",
+    "output\\CURRENT\\boards\\Melemele\\quadrant_4.stl": "9d867e321b36f86dd5cab8482e63b0567782c27f148c58df84d24e14b1e0c7f0",
+    "output\\CURRENT\\boards\\Poni\\quadrant_1.stl": "aa8fb3b9df98d92199e7a0c5a9923d782f70543b1e4566557ef2db5aad6bb736",
+    "output\\CURRENT\\boards\\Poni\\quadrant_2.stl": "435ccd8f9627d2aeacbdef5282e60d34d887e7a82d62b892457564ff83ff3178",
+    "output\\CURRENT\\boards\\Poni\\quadrant_3.stl": "7f945b5bc00dceb813695fe99bf4157f040fe325684e09c89706ee558f391f4f",
+    "output\\CURRENT\\boards\\Poni\\quadrant_4.stl": "cca9a5d262c6146bb2ca69746669db79eeca6c511fcf26bfa9f155c23d9c83c1",
+    "output\\CURRENT\\boards\\Ulaula\\quadrant_1.stl": "e9bb2f1e1c1821f9323cae283edd0a750e38ad712e15a74ae33c318e0bd7779c",
+    "output\\CURRENT\\boards\\Ulaula\\quadrant_2.stl": "5937e3fc77d2dfa51ecb1a29b80677a2bd645d7f6bb920ea3e0209380bc2c78d",
+    "output\\CURRENT\\boards\\Ulaula\\quadrant_3.stl": "1bfc222e4ac6bfef0845b86b39d717200ea322218b1cec342c9b609736ca74fe",
+    "output\\CURRENT\\boards\\Ulaula\\quadrant_4.stl": "1eb7a471023413782d6cc2e90131ac4077be9cfb5e7235a4c60d2321b680746f"
+  },
+  "files": [
+    {
+      "file": "prototype_2x1_part_A.stl",
+      "xyz_mm": [
+        47.8,
+        64.0,
+        10.0
+      ],
+      "watertight_manifold": true,
+      "fits_A1": true
+    },
+    {
+      "file": "prototype_2x1_part_B.stl",
+      "xyz_mm": [
+        47.8,
+        64.0,
+        10.0
+      ],
+      "watertight_manifold": true,
+      "fits_A1": true
+    },
+    {
+      "file": "pins\\T_pin_4mm_family_clearance_0.15_shaft_4.10.stl",
+      "xyz_mm": [
+        12.0,
+        8.0,
+        12.2
+      ],
+      "watertight_manifold": true,
+      "fits_A1": true
+    },
+    {
+      "file": "pins\\T_pin_4mm_family_clearance_0.20_shaft_4.00.stl",
+      "xyz_mm": [
+        12.0,
+        8.0,
+        12.2
+      ],
+      "watertight_manifold": true,
+      "fits_A1": true
+    },
+    {
+      "file": "pins\\T_pin_4mm_family_clearance_0.25_shaft_3.90.stl",
+      "xyz_mm": [
+        12.0,
+        8.0,
+        12.2
+      ],
+      "watertight_manifold": true,
+      "fits_A1": true
+    },
+    {
+      "file": "pins\\T_pin_4mm_family_clearance_0.30_shaft_3.80.stl",
+      "xyz_mm": [
+        12.0,
+        8.0,
+        12.2
+      ],
+      "watertight_manifold": true,
+      "fits_A1": true
+    },
+    {
+      "file": "pins\\T_pin_5mm_family_clearance_0.15_shaft_5.10.stl",
+      "xyz_mm": [
+        12.0,
+        8.0,
+        12.2
+      ],
+      "watertight_manifold": true,
+      "fits_A1": true
+    },
+    {
+      "file": "pins\\T_pin_5mm_family_clearance_0.20_shaft_5.00.stl",
+      "xyz_mm": [
+        12.0,
+        8.0,
+        12.2
+      ],
+      "watertight_manifold": true,
+      "fits_A1": true
+    },
+    {
+      "file": "pins\\T_pin_5mm_family_clearance_0.25_shaft_4.90.stl",
+      "xyz_mm": [
+        12.0,
+        8.0,
+        12.2
+      ],
+      "watertight_manifold": true,
+      "fits_A1": true
+    },
+    {
+      "file": "pins\\T_pin_5mm_family_clearance_0.30_shaft_4.80.stl",
+      "xyz_mm": [
+        12.0,
+        8.0,
+        12.2
+      ],
+      "watertight_manifold": true,
+      "fits_A1": true
+    },
+    {
+      "file": "tiles\\blank_test_tile_0.15mm_per_side_1_dots.stl",
+      "xyz_mm": [
+        35.7,
+        35.7,
+        2.8
+      ],
+      "watertight_manifold": true,
+      "fits_A1": true
+    },
+    {
+      "file": "tiles\\blank_test_tile_0.20mm_per_side_2_dots.stl",
+      "xyz_mm": [
+        35.6,
+        35.6,
+        2.8
+      ],
+      "watertight_manifold": true,
+      "fits_A1": true
+    },
+    {
+      "file": "tiles\\blank_test_tile_0.25mm_per_side_3_dots.stl",
+      "xyz_mm": [
+        35.5,
+        35.5,
+        2.8
+      ],
+      "watertight_manifold": true,
+      "fits_A1": true
+    },
+    {
+      "file": "tiles\\blank_test_tile_0.30mm_per_side_4_dots.stl",
+      "xyz_mm": [
+        35.4,
+        35.4,
+        2.8
+      ],
+      "watertight_manifold": true,
+      "fits_A1": true
+    }
+  ],
+  "pin_variants": [
+    {
+      "family_mm": 4.0,
+      "shaft_diameter_mm": 4.1,
+      "hole_diameter_mm": 4.4,
+      "clearance_per_side_mm": 0.15,
+      "head_mm": [
+        12.0,
+        8.0,
+        2.4
+      ],
+      "identification": "4 + 1 dots",
+      "minimum_radial_wall_mm": 2.8,
+      "minimum_entry_wall_mm": 2.1
+    },
+    {
+      "family_mm": 4.0,
+      "shaft_diameter_mm": 4.0,
+      "hole_diameter_mm": 4.4,
+      "clearance_per_side_mm": 0.2,
+      "head_mm": [
+        12.0,
+        8.0,
+        2.4
+      ],
+      "identification": "4 + 2 dots",
+      "minimum_radial_wall_mm": 2.8,
+      "minimum_entry_wall_mm": 2.1
+    },
+    {
+      "family_mm": 4.0,
+      "shaft_diameter_mm": 3.9,
+      "hole_diameter_mm": 4.4,
+      "clearance_per_side_mm": 0.25,
+      "head_mm": [
+        12.0,
+        8.0,
+        2.4
+      ],
+      "identification": "4 + 3 dots",
+      "minimum_radial_wall_mm": 2.8,
+      "minimum_entry_wall_mm": 2.1
+    },
+    {
+      "family_mm": 4.0,
+      "shaft_diameter_mm": 3.8,
+      "hole_diameter_mm": 4.4,
+      "clearance_per_side_mm": 0.3,
+      "head_mm": [
+        12.0,
+        8.0,
+        2.4
+      ],
+      "identification": "4 + 4 dots",
+      "minimum_radial_wall_mm": 2.8,
+      "minimum_entry_wall_mm": 2.1
+    },
+    {
+      "family_mm": 5.0,
+      "shaft_diameter_mm": 5.1,
+      "hole_diameter_mm": 5.4,
+      "clearance_per_side_mm": 0.15,
+      "head_mm": [
+        12.0,
+        8.0,
+        2.4
+      ],
+      "identification": "5 + 1 dots",
+      "minimum_radial_wall_mm": 2.3,
+      "minimum_entry_wall_mm": 1.6
+    },
+    {
+      "family_mm": 5.0,
+      "shaft_diameter_mm": 5.0,
+      "hole_diameter_mm": 5.4,
+      "clearance_per_side_mm": 0.2,
+      "head_mm": [
+        12.0,
+        8.0,
+        2.4
+      ],
+      "identification": "5 + 2 dots",
+      "minimum_radial_wall_mm": 2.3,
+      "minimum_entry_wall_mm": 1.6
+    },
+    {
+      "family_mm": 5.0,
+      "shaft_diameter_mm": 4.9,
+      "hole_diameter_mm": 5.4,
+      "clearance_per_side_mm": 0.25,
+      "head_mm": [
+        12.0,
+        8.0,
+        2.4
+      ],
+      "identification": "5 + 3 dots",
+      "minimum_radial_wall_mm": 2.3,
+      "minimum_entry_wall_mm": 1.6
+    },
+    {
+      "family_mm": 5.0,
+      "shaft_diameter_mm": 4.8,
+      "hole_diameter_mm": 5.4,
+      "clearance_per_side_mm": 0.3,
+      "head_mm": [
+        12.0,
+        8.0,
+        2.4
+      ],
+      "identification": "5 + 4 dots",
+      "minimum_radial_wall_mm": 2.3,
+      "minimum_entry_wall_mm": 1.6
+    }
+  ],
+  "socket_mm": [
+    36,
+    36
+  ],
+  "socket_depth_mm": 3,
+  "socket_radius_mm": 2,
+  "pitch_mm": 38,
+  "divider_mm": 2,
+  "board_thickness_mm": 10,
+  "outer_track_rim_mm": 6,
+  "removal_recess": "exact canonical function",
+  "board_seam_clearance_mm": 0.25,
+  "lap_vertical_clearance_mm": 0.4,
+  "lap_normal_clearance_mm": 0.282842712474619,
+  "lap_angle_degrees": 45,
+  "minimum_bore_edge_bearing_thickness_mm": 2.1,
+  "lug_perimeter_clearance_mm": 0.25,
+  "lower_lug_axis_thickness_mm": 4.8,
+  "upper_lug_axis_thickness_mm": 4.8,
+  "minimum_mechanism_to_socket_mm": 2.75,
+  "large_horizontal_tab_underside_area_mm2": 0,
+  "positive_lateral_pin_stop_checked_mm": 1.0,
+  "tile_clearance_selected": false,
+  "retention": "Gravity: vertical pins, heads rest on upper ears. Not captive against upward lift or inversion.",
+  "orientation": {
+    "part_A": "socket up, flat underside on bed, no supports",
+    "part_B": "socket up; 45-degree underside grows from a bed-connected foot; predicted near-support-free, inspect local bore bridges up to 5.4 mm",
+    "pins": "Flat T-head down, shaft vertical up; predicted support-free. No side printing. Optional 2 mm brim if adhesion requires.",
+    "tiles": "flat underside on bed; existing top identification dots"
+  },
+  "warnings": [
+    "Canonical fingernail recess locally leaves 1 mm of divider at the top; do not pry with tools.",
+    "45-degree slopes and local bore bridges require physical verification; inspect thin wedge tips.",
+    "Smooth gravity pins prevent lateral pull-apart but are not captive against vertical lifting or inversion.",
+    "Largest pin clearance permits up to about 0.6 mm relative play; test rattle and seam movement.",
+    "PLA wear, actual pin/ear strength and repeated-use durability require the physical print test."
+  ],
+  "no_gameplay_tiles_generated": true,
+  "supports": {
+    "part_A": "socket up, flat underside on bed, no supports",
+    "part_B": "socket up; 45-degree underside grows from a bed-connected foot; predicted near-support-free, inspect local bore bridges up to 5.4 mm",
+    "pins": "Flat T-head down, shaft vertical up; predicted support-free. No side printing. Optional 2 mm brim if adhesion requires.",
+    "tiles": "flat underside on bed; existing top identification dots"
+  },
+  "extra_XY_protrusion_mm": 8,
+  "assembled_body_xyz_mm": [
+    86,
+    64,
+    10
+  ],
+  "assembled_with_pins_xyz_mm": [
+    86,
+    64,
+    12.4
+  ],
+  "tab_core_plan_mm": [
+    16,
+    11
+  ],
+  "tab_with_root_plan_mm": [
+    20,
+    11
+  ],
+  "tab_plan_corner_radius_mm": 2,
+  "tab_overlap_xy_bounding_box_mm": [
+    9.6,
+    11
+  ],
+  "root_transition_fillet_mm": 2,
+  "minimum_material_under_socket_mm": 7,
+  "assembly_translation_samples": 81,
+  "pin_withdrawal_samples_per_variant": 23,
+  "coaxial_only_at_zero_translation": true,
+  "pin_root_fillet_mm": 0.6,
+  "upper_bore_chamfer_mm": 0.7
+}
