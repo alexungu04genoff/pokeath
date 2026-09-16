@@ -10,6 +10,10 @@ If a task does not explicitly request a historical prototype, always use **`outp
 | Tile generator guide | `docs/UNIVERSAL_TILE_GENERATOR.md` |
 | Canonical gameplay-space metadata | `output/CURRENT/gameplay_spaces/` |
 | Gameplay-space manifest guide | `docs/GAMEPLAY_SPACE_MANIFEST.md` |
+| Neutral racer size/crowding sandbox | `output/CURRENT/racers/` and `output/CURRENT/blender/racers/` |
+| Racer sandbox guide | `docs/RACER_PROTOTYPES.md` |
+| Visual socket/quadrant catalog | `output/CURRENT/catalog/index.html` |
+| Regression checks and CI | `docs/REGRESSION_CHECKS.md` |
 | Current physical lock test | `output/CURRENT/prototype/sloped_lap_2x1/` |
 | Blender reference geometry | `output/CURRENT/blender/START_HERE.obj` and `output/CURRENT/blender/boards/` |
 | Canonical generator and validation | `src/chassis/` |

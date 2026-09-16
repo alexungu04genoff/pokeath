@@ -49,39 +49,6 @@
       "fits_A1": true
     },
     {
-      "file": "output\\CURRENT\\boards\\canonical_chassis\\fit_test_lock_left.stl",
-      "xyz_mm": [
-        34.0,
-        12.875,
-        10.0
-      ],
-      "manifold_edges": true,
-      "watertight": true,
-      "fits_A1": true
-    },
-    {
-      "file": "output\\CURRENT\\boards\\canonical_chassis\\fit_test_lock_right.stl",
-      "xyz_mm": [
-        34.0,
-        12.875,
-        10.0
-      ],
-      "manifold_edges": true,
-      "watertight": true,
-      "fits_A1": true
-    },
-    {
-      "file": "output\\CURRENT\\boards\\canonical_chassis\\snap_key_print_3_per_board.stl",
-      "xyz_mm": [
-        34.0,
-        10.4,
-        3.0
-      ],
-      "manifold_edges": true,
-      "watertight": true,
-      "fits_A1": true
-    },
-    {
       "file": "output\\CURRENT\\boards\\fit_test\\blank_test_tile_0.15mm_per_side_1_dots.stl",
       "xyz_mm": [
         35.7,
@@ -130,6 +97,28 @@
       "xyz_mm": [
         86.0,
         86.0,
+        10.0
+      ],
+      "manifold_edges": true,
+      "watertight": true,
+      "fits_A1": true
+    },
+    {
+      "file": "output\\CURRENT\\boards\\fit_test_lock_left.stl",
+      "xyz_mm": [
+        34.0,
+        12.875,
+        10.0
+      ],
+      "manifold_edges": true,
+      "watertight": true,
+      "fits_A1": true
+    },
+    {
+      "file": "output\\CURRENT\\boards\\fit_test_lock_right.stl",
+      "xyz_mm": [
+        34.0,
+        12.875,
         10.0
       ],
       "manifold_edges": true,
@@ -219,6 +208,17 @@
         220.77,
         220.75,
         10.0
+      ],
+      "manifold_edges": true,
+      "watertight": true,
+      "fits_A1": true
+    },
+    {
+      "file": "output\\CURRENT\\boards\\snap_key_print_3_per_board.stl",
+      "xyz_mm": [
+        34.0,
+        10.4,
+        3.0
       ],
       "manifold_edges": true,
       "watertight": true,

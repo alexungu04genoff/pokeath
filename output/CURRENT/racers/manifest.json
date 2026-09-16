@@ -1,0 +1,61 @@
+{
+  "purpose": "geometry-only racer size and crowding sandbox",
+  "final_pokemon_artwork_generated": false,
+  "records": [
+    {
+      "name": "dummy_racer_base_8mm",
+      "stl": "output/CURRENT/racers/dummy_racer_base_8mm.stl",
+      "obj": "output/CURRENT/blender/racers/dummy_racer_base_8mm.obj",
+      "xyz_mm": [
+        8.0,
+        8.0,
+        1.6
+      ],
+      "components": 1
+    },
+    {
+      "name": "dummy_racer_base_9mm",
+      "stl": "output/CURRENT/racers/dummy_racer_base_9mm.stl",
+      "obj": "output/CURRENT/blender/racers/dummy_racer_base_9mm.obj",
+      "xyz_mm": [
+        9.0,
+        9.0,
+        1.6
+      ],
+      "components": 1
+    },
+    {
+      "name": "dummy_racer_base_10mm",
+      "stl": "output/CURRENT/racers/dummy_racer_base_10mm.stl",
+      "obj": "output/CURRENT/blender/racers/dummy_racer_base_10mm.obj",
+      "xyz_mm": [
+        10.0,
+        10.0,
+        1.6
+      ],
+      "components": 1
+    },
+    {
+      "name": "dummy_racer_portrait_panel_8mm",
+      "stl": "output/CURRENT/racers/dummy_racer_portrait_panel_8mm.stl",
+      "obj": "output/CURRENT/blender/racers/dummy_racer_portrait_panel_8mm.obj",
+      "xyz_mm": [
+        8.0,
+        8.0,
+        9.6
+      ],
+      "components": 1
+    },
+    {
+      "name": "crowding_test_36mm_socket_six_8mm_dummy_racers",
+      "stl": "output/CURRENT/racers/crowding_test_36mm_socket_six_8mm_dummy_racers.stl",
+      "obj": "output/CURRENT/blender/racers/crowding_test_36mm_socket_six_8mm_dummy_racers.obj",
+      "xyz_mm": [
+        40.0,
+        40.0,
+        10.1
+      ],
+      "components": 7
+    }
+  ]
+}
