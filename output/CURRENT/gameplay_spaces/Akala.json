@@ -1,0 +1,533 @@
+{
+  "board": "Akala",
+  "schema_version": 1,
+  "source_notes": [
+    "Canonical IDs, quadrant ownership, and centers come from output/CURRENT/boards/finished_stl_bounds.json.",
+    "Original visual colors are not encoded as reliable machine-readable gameplay data; values remain explicitly unknown.",
+    "Only Ulaula ordinary/special classification is encoded by existing EFFECT_IDS source data. No effect text is encoded."
+  ],
+  "spaces": [
+    {
+      "board": "Akala",
+      "canonical_socket_id": "R0C1",
+      "row": 0,
+      "column": 1,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 1,
+      "assembly_center_mm": [
+        186.4600760456274,
+        32.003802281368834
+      ]
+    },
+    {
+      "board": "Akala",
+      "canonical_socket_id": "R0C2",
+      "row": 0,
+      "column": 2,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 1,
+      "assembly_center_mm": [
+        224.46007604562743,
+        32.003802281368834
+      ]
+    },
+    {
+      "board": "Akala",
+      "canonical_socket_id": "R0C3",
+      "row": 0,
+      "column": 3,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 1,
+      "assembly_center_mm": [
+        262.46007604562755,
+        32.00380228136884
+      ]
+    },
+    {
+      "board": "Akala",
+      "canonical_socket_id": "R0C4",
+      "row": 0,
+      "column": 4,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 1,
+      "assembly_center_mm": [
+        300.4600760456274,
+        32.00380228136881
+      ]
+    },
+    {
+      "board": "Akala",
+      "canonical_socket_id": "R0C5",
+      "row": 0,
+      "column": 5,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 2,
+      "assembly_center_mm": [
+        338.46007604562726,
+        32.00380228136881
+      ]
+    },
+    {
+      "board": "Akala",
+      "canonical_socket_id": "R0C6",
+      "row": 0,
+      "column": 6,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 2,
+      "assembly_center_mm": [
+        376.4600760456273,
+        32.00380228136881
+      ]
+    },
+    {
+      "board": "Akala",
+      "canonical_socket_id": "R1C1",
+      "row": 1,
+      "column": 1,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 1,
+      "assembly_center_mm": [
+        186.46007604562743,
+        70.00380228136882
+      ]
+    },
+    {
+      "board": "Akala",
+      "canonical_socket_id": "R1C6",
+      "row": 1,
+      "column": 6,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 2,
+      "assembly_center_mm": [
+        376.46007604562743,
+        70.00380228136876
+      ]
+    },
+    {
+      "board": "Akala",
+      "canonical_socket_id": "R2C1",
+      "row": 2,
+      "column": 1,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 1,
+      "assembly_center_mm": [
+        186.46007604562743,
+        108.00380228136885
+      ]
+    },
+    {
+      "board": "Akala",
+      "canonical_socket_id": "R2C6",
+      "row": 2,
+      "column": 6,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 2,
+      "assembly_center_mm": [
+        376.46007604562743,
+        108.0038022813688
+      ]
+    },
+    {
+      "board": "Akala",
+      "canonical_socket_id": "R3C1",
+      "row": 3,
+      "column": 1,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 1,
+      "assembly_center_mm": [
+        186.46007604562737,
+        146.00380228136888
+      ]
+    },
+    {
+      "board": "Akala",
+      "canonical_socket_id": "R3C6",
+      "row": 3,
+      "column": 6,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 2,
+      "assembly_center_mm": [
+        376.46007604562726,
+        146.0038022813688
+      ]
+    },
+    {
+      "board": "Akala",
+      "canonical_socket_id": "R4C1",
+      "row": 4,
+      "column": 1,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 1,
+      "assembly_center_mm": [
+        186.46007604562737,
+        184.003802281369
+      ]
+    },
+    {
+      "board": "Akala",
+      "canonical_socket_id": "R4C6",
+      "row": 4,
+      "column": 6,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 2,
+      "assembly_center_mm": [
+        376.4600760456274,
+        184.0038022813687
+      ]
+    },
+    {
+      "board": "Akala",
+      "canonical_socket_id": "R5C0",
+      "row": 5,
+      "column": 0,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 3,
+      "assembly_center_mm": [
+        148.46007604562735,
+        222.00380228136885
+      ]
+    },
+    {
+      "board": "Akala",
+      "canonical_socket_id": "R5C1",
+      "row": 5,
+      "column": 1,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 3,
+      "assembly_center_mm": [
+        186.46007604562737,
+        222.00380228136885
+      ]
+    },
+    {
+      "board": "Akala",
+      "canonical_socket_id": "R5C5",
+      "row": 5,
+      "column": 5,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        338.46007604562715,
+        222.0038022813687
+      ]
+    },
+    {
+      "board": "Akala",
+      "canonical_socket_id": "R5C6",
+      "row": 5,
+      "column": 6,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        376.4600760456274,
+        222.0038022813687
+      ]
+    },
+    {
+      "board": "Akala",
+      "canonical_socket_id": "R6C0",
+      "row": 6,
+      "column": 0,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 3,
+      "assembly_center_mm": [
+        148.46007604562743,
+        260.00380228136873
+      ]
+    },
+    {
+      "board": "Akala",
+      "canonical_socket_id": "R6C4",
+      "row": 6,
+      "column": 4,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        300.4600760456275,
+        260.0038022813689
+      ]
+    },
+    {
+      "board": "Akala",
+      "canonical_socket_id": "R6C5",
+      "row": 6,
+      "column": 5,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        338.46007604562755,
+        260.0038022813689
+      ]
+    },
+    {
+      "board": "Akala",
+      "canonical_socket_id": "R7C0",
+      "row": 7,
+      "column": 0,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 3,
+      "assembly_center_mm": [
+        148.46007604562746,
+        298.0038022813689
+      ]
+    },
+    {
+      "board": "Akala",
+      "canonical_socket_id": "R7C4",
+      "row": 7,
+      "column": 4,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        300.4600760456275,
+        298.00380228136885
+      ]
+    },
+    {
+      "board": "Akala",
+      "canonical_socket_id": "R8C4",
+      "row": 8,
+      "column": 4,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        300.4600760456275,
+        336.00380228136913
+      ]
+    },
+    {
+      "board": "Akala",
+      "canonical_socket_id": "R9C1",
+      "row": 9,
+      "column": 1,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 3,
+      "assembly_center_mm": [
+        186.4600760456274,
+        374.0038022813689
+      ]
+    },
+    {
+      "board": "Akala",
+      "canonical_socket_id": "R9C2",
+      "row": 9,
+      "column": 2,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        224.4600760456274,
+        374.0038022813689
+      ]
+    },
+    {
+      "board": "Akala",
+      "canonical_socket_id": "R9C3",
+      "row": 9,
+      "column": 3,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        262.4600760456274,
+        374.00380228136885
+      ]
+    },
+    {
+      "board": "Akala",
+      "canonical_socket_id": "R9C4",
+      "row": 9,
+      "column": 4,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        300.4600760456275,
+        374.003802281369
+      ]
+    },
+    {
+      "board": "Akala",
+      "canonical_socket_id": "R10C1",
+      "row": 10,
+      "column": 1,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 3,
+      "assembly_center_mm": [
+        186.4600760456274,
+        412.0038022813691
+      ]
+    }
+  ]
+}

@@ -1,0 +1,605 @@
+{
+  "board": "Ulaula",
+  "schema_version": 1,
+  "source_notes": [
+    "Canonical IDs, quadrant ownership, and centers come from output/CURRENT/boards/finished_stl_bounds.json.",
+    "Original visual colors are not encoded as reliable machine-readable gameplay data; values remain explicitly unknown.",
+    "Only Ulaula ordinary/special classification is encoded by existing EFFECT_IDS source data. No effect text is encoded."
+  ],
+  "spaces": [
+    {
+      "board": "Ulaula",
+      "canonical_socket_id": "R0C2",
+      "row": 0,
+      "column": 2,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "ordinary",
+      "classification_status": "Existing Ulaula placement mapping; no effect identifier.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 1,
+      "assembly_center_mm": [
+        138.3460076045627,
+        71.0152091254753
+      ]
+    },
+    {
+      "board": "Ulaula",
+      "canonical_socket_id": "R1C2",
+      "row": 1,
+      "column": 2,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "ordinary",
+      "classification_status": "Existing Ulaula placement mapping; no effect identifier.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 1,
+      "assembly_center_mm": [
+        138.3460076045627,
+        109.01520912547534
+      ]
+    },
+    {
+      "board": "Ulaula",
+      "canonical_socket_id": "R2C0",
+      "row": 2,
+      "column": 0,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "special",
+      "classification_status": "Existing EFFECT_IDS source mapping; effect text is not encoded.",
+      "original_effect_identifier": "effect",
+      "original_effect_text": null,
+      "effect_status": "generic_effect_only_no_text_encoded",
+      "quadrant_ownership": 1,
+      "assembly_center_mm": [
+        62.34600760456276,
+        147.01520912547534
+      ]
+    },
+    {
+      "board": "Ulaula",
+      "canonical_socket_id": "R2C1",
+      "row": 2,
+      "column": 1,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "ordinary",
+      "classification_status": "Existing Ulaula placement mapping; no effect identifier.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 1,
+      "assembly_center_mm": [
+        100.34600760456274,
+        147.0152091254753
+      ]
+    },
+    {
+      "board": "Ulaula",
+      "canonical_socket_id": "R2C2",
+      "row": 2,
+      "column": 2,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "ordinary",
+      "classification_status": "Existing Ulaula placement mapping; no effect identifier.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 1,
+      "assembly_center_mm": [
+        138.3460076045626,
+        147.01520912547534
+      ]
+    },
+    {
+      "board": "Ulaula",
+      "canonical_socket_id": "R3C0",
+      "row": 3,
+      "column": 0,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "ordinary",
+      "classification_status": "Existing Ulaula placement mapping; no effect identifier.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 1,
+      "assembly_center_mm": [
+        62.34600760456276,
+        185.01520912547545
+      ]
+    },
+    {
+      "board": "Ulaula",
+      "canonical_socket_id": "R3C3",
+      "row": 3,
+      "column": 3,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "ordinary",
+      "classification_status": "Existing Ulaula placement mapping; no effect identifier.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 1,
+      "assembly_center_mm": [
+        176.34600760456277,
+        185.01520912547537
+      ]
+    },
+    {
+      "board": "Ulaula",
+      "canonical_socket_id": "R3C4",
+      "row": 3,
+      "column": 4,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "special",
+      "classification_status": "Existing EFFECT_IDS source mapping; effect text is not encoded.",
+      "original_effect_identifier": "effect",
+      "original_effect_text": null,
+      "effect_status": "generic_effect_only_no_text_encoded",
+      "quadrant_ownership": 1,
+      "assembly_center_mm": [
+        214.34600760456286,
+        185.01520912547537
+      ]
+    },
+    {
+      "board": "Ulaula",
+      "canonical_socket_id": "R3C5",
+      "row": 3,
+      "column": 5,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "ordinary",
+      "classification_status": "Existing Ulaula placement mapping; no effect identifier.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 2,
+      "assembly_center_mm": [
+        252.34600760456289,
+        185.01520912547537
+      ]
+    },
+    {
+      "board": "Ulaula",
+      "canonical_socket_id": "R3C6",
+      "row": 3,
+      "column": 6,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "ordinary",
+      "classification_status": "Existing Ulaula placement mapping; no effect identifier.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 2,
+      "assembly_center_mm": [
+        290.3460076045626,
+        185.01520912547517
+      ]
+    },
+    {
+      "board": "Ulaula",
+      "canonical_socket_id": "R3C7",
+      "row": 3,
+      "column": 7,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "special",
+      "classification_status": "Existing EFFECT_IDS source mapping; effect text is not encoded.",
+      "original_effect_identifier": "effect",
+      "original_effect_text": null,
+      "effect_status": "generic_effect_only_no_text_encoded",
+      "quadrant_ownership": 2,
+      "assembly_center_mm": [
+        328.3460076045626,
+        185.01520912547517
+      ]
+    },
+    {
+      "board": "Ulaula",
+      "canonical_socket_id": "R3C8",
+      "row": 3,
+      "column": 8,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "ordinary",
+      "classification_status": "Existing Ulaula placement mapping; no effect identifier.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 2,
+      "assembly_center_mm": [
+        366.3460076045626,
+        185.01520912547517
+      ]
+    },
+    {
+      "board": "Ulaula",
+      "canonical_socket_id": "R4C0",
+      "row": 4,
+      "column": 0,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "ordinary",
+      "classification_status": "Existing Ulaula placement mapping; no effect identifier.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 3,
+      "assembly_center_mm": [
+        62.34600760456276,
+        223.0152091254755
+      ]
+    },
+    {
+      "board": "Ulaula",
+      "canonical_socket_id": "R4C3",
+      "row": 4,
+      "column": 3,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "ordinary",
+      "classification_status": "Existing Ulaula placement mapping; no effect identifier.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 3,
+      "assembly_center_mm": [
+        176.34600760456277,
+        223.0152091254751
+      ]
+    },
+    {
+      "board": "Ulaula",
+      "canonical_socket_id": "R4C8",
+      "row": 4,
+      "column": 8,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "ordinary",
+      "classification_status": "Existing Ulaula placement mapping; no effect identifier.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        366.3460076045625,
+        223.0152091254751
+      ]
+    },
+    {
+      "board": "Ulaula",
+      "canonical_socket_id": "R4C9",
+      "row": 4,
+      "column": 9,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "ordinary",
+      "classification_status": "Existing Ulaula placement mapping; no effect identifier.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        404.3460076045627,
+        223.0152091254751
+      ]
+    },
+    {
+      "board": "Ulaula",
+      "canonical_socket_id": "R5C0",
+      "row": 5,
+      "column": 0,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "ordinary",
+      "classification_status": "Existing Ulaula placement mapping; no effect identifier.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 3,
+      "assembly_center_mm": [
+        62.34600760456278,
+        261.0152091254754
+      ]
+    },
+    {
+      "board": "Ulaula",
+      "canonical_socket_id": "R5C1",
+      "row": 5,
+      "column": 1,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "ordinary",
+      "classification_status": "Existing Ulaula placement mapping; no effect identifier.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 3,
+      "assembly_center_mm": [
+        100.34600760456283,
+        261.01520912547534
+      ]
+    },
+    {
+      "board": "Ulaula",
+      "canonical_socket_id": "R5C2",
+      "row": 5,
+      "column": 2,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "special",
+      "classification_status": "Existing EFFECT_IDS source mapping; effect text is not encoded.",
+      "original_effect_identifier": "effect",
+      "original_effect_text": null,
+      "effect_status": "generic_effect_only_no_text_encoded",
+      "quadrant_ownership": 3,
+      "assembly_center_mm": [
+        138.34600760456271,
+        261.0152091254752
+      ]
+    },
+    {
+      "board": "Ulaula",
+      "canonical_socket_id": "R5C3",
+      "row": 5,
+      "column": 3,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "special",
+      "classification_status": "Existing EFFECT_IDS source mapping; effect text is not encoded.",
+      "original_effect_identifier": "effect",
+      "original_effect_text": null,
+      "effect_status": "generic_effect_only_no_text_encoded",
+      "quadrant_ownership": 3,
+      "assembly_center_mm": [
+        176.3460076045628,
+        261.0152091254752
+      ]
+    },
+    {
+      "board": "Ulaula",
+      "canonical_socket_id": "R5C9",
+      "row": 5,
+      "column": 9,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "special",
+      "classification_status": "Existing EFFECT_IDS source mapping; effect text is not encoded.",
+      "original_effect_identifier": "effect",
+      "original_effect_text": null,
+      "effect_status": "generic_effect_only_no_text_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        404.3460076045629,
+        261.01520912547545
+      ]
+    },
+    {
+      "board": "Ulaula",
+      "canonical_socket_id": "R6C2",
+      "row": 6,
+      "column": 2,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "special",
+      "classification_status": "Existing EFFECT_IDS source mapping; effect text is not encoded.",
+      "original_effect_identifier": "effect",
+      "original_effect_text": null,
+      "effect_status": "generic_effect_only_no_text_encoded",
+      "quadrant_ownership": 3,
+      "assembly_center_mm": [
+        138.34600760456271,
+        299.01520912547517
+      ]
+    },
+    {
+      "board": "Ulaula",
+      "canonical_socket_id": "R6C7",
+      "row": 6,
+      "column": 7,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "special",
+      "classification_status": "Existing EFFECT_IDS source mapping; effect text is not encoded.",
+      "original_effect_identifier": "effect",
+      "original_effect_text": null,
+      "effect_status": "generic_effect_only_no_text_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        328.34600760456277,
+        299.0152091254752
+      ]
+    },
+    {
+      "board": "Ulaula",
+      "canonical_socket_id": "R6C8",
+      "row": 6,
+      "column": 8,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "ordinary",
+      "classification_status": "Existing Ulaula placement mapping; no effect identifier.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        366.34600760456277,
+        299.0152091254752
+      ]
+    },
+    {
+      "board": "Ulaula",
+      "canonical_socket_id": "R6C9",
+      "row": 6,
+      "column": 9,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "special",
+      "classification_status": "Existing EFFECT_IDS source mapping; effect text is not encoded.",
+      "original_effect_identifier": "effect",
+      "original_effect_text": null,
+      "effect_status": "generic_effect_only_no_text_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        404.3460076045629,
+        299.0152091254752
+      ]
+    },
+    {
+      "board": "Ulaula",
+      "canonical_socket_id": "R7C2",
+      "row": 7,
+      "column": 2,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "ordinary",
+      "classification_status": "Existing Ulaula placement mapping; no effect identifier.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 3,
+      "assembly_center_mm": [
+        138.34600760456271,
+        337.01520912547545
+      ]
+    },
+    {
+      "board": "Ulaula",
+      "canonical_socket_id": "R7C3",
+      "row": 7,
+      "column": 3,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "ordinary",
+      "classification_status": "Existing Ulaula placement mapping; no effect identifier.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 3,
+      "assembly_center_mm": [
+        176.34600760456283,
+        337.01520912547545
+      ]
+    },
+    {
+      "board": "Ulaula",
+      "canonical_socket_id": "R7C5",
+      "row": 7,
+      "column": 5,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "ordinary",
+      "classification_status": "Existing Ulaula placement mapping; no effect identifier.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        252.3460076045628,
+        337.0152091254754
+      ]
+    },
+    {
+      "board": "Ulaula",
+      "canonical_socket_id": "R7C6",
+      "row": 7,
+      "column": 6,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "ordinary",
+      "classification_status": "Existing Ulaula placement mapping; no effect identifier.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        290.34600760456254,
+        337.0152091254754
+      ]
+    },
+    {
+      "board": "Ulaula",
+      "canonical_socket_id": "R7C7",
+      "row": 7,
+      "column": 7,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "ordinary",
+      "classification_status": "Existing Ulaula placement mapping; no effect identifier.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        328.34600760456277,
+        337.0152091254754
+      ]
+    },
+    {
+      "board": "Ulaula",
+      "canonical_socket_id": "R8C3",
+      "row": 8,
+      "column": 3,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "ordinary",
+      "classification_status": "Existing Ulaula placement mapping; no effect identifier.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 3,
+      "assembly_center_mm": [
+        176.34600760456283,
+        375.01520912547545
+      ]
+    },
+    {
+      "board": "Ulaula",
+      "canonical_socket_id": "R8C4",
+      "row": 8,
+      "column": 4,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "special",
+      "classification_status": "Existing EFFECT_IDS source mapping; effect text is not encoded.",
+      "original_effect_identifier": "effect",
+      "original_effect_text": null,
+      "effect_status": "generic_effect_only_no_text_encoded",
+      "quadrant_ownership": 3,
+      "assembly_center_mm": [
+        214.34600760456289,
+        375.01520912547545
+      ]
+    },
+    {
+      "board": "Ulaula",
+      "canonical_socket_id": "R8C5",
+      "row": 8,
+      "column": 5,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "special",
+      "classification_status": "Existing EFFECT_IDS source mapping; effect text is not encoded.",
+      "original_effect_identifier": "effect",
+      "original_effect_text": null,
+      "effect_status": "generic_effect_only_no_text_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        252.3460076045628,
+        375.01520912547534
+      ]
+    }
+  ]
+}

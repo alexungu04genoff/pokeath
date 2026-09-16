@@ -1,0 +1,533 @@
+{
+  "board": "Melemele",
+  "schema_version": 1,
+  "source_notes": [
+    "Canonical IDs, quadrant ownership, and centers come from output/CURRENT/boards/finished_stl_bounds.json.",
+    "Original visual colors are not encoded as reliable machine-readable gameplay data; values remain explicitly unknown.",
+    "Only Ulaula ordinary/special classification is encoded by existing EFFECT_IDS source data. No effect text is encoded."
+  ],
+  "spaces": [
+    {
+      "board": "Melemele",
+      "canonical_socket_id": "R0C1",
+      "row": 0,
+      "column": 1,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 1,
+      "assembly_center_mm": [
+        100.34600760456273,
+        108.58174904942973
+      ]
+    },
+    {
+      "board": "Melemele",
+      "canonical_socket_id": "R0C2",
+      "row": 0,
+      "column": 2,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 1,
+      "assembly_center_mm": [
+        138.3460076045627,
+        108.58174904942972
+      ]
+    },
+    {
+      "board": "Melemele",
+      "canonical_socket_id": "R0C3",
+      "row": 0,
+      "column": 3,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 1,
+      "assembly_center_mm": [
+        176.34600760456283,
+        108.5817490494297
+      ]
+    },
+    {
+      "board": "Melemele",
+      "canonical_socket_id": "R0C4",
+      "row": 0,
+      "column": 4,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 2,
+      "assembly_center_mm": [
+        214.34600760456286,
+        108.5817490494297
+      ]
+    },
+    {
+      "board": "Melemele",
+      "canonical_socket_id": "R0C5",
+      "row": 0,
+      "column": 5,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 2,
+      "assembly_center_mm": [
+        252.34600760456274,
+        108.58174904942967
+      ]
+    },
+    {
+      "board": "Melemele",
+      "canonical_socket_id": "R0C6",
+      "row": 0,
+      "column": 6,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 2,
+      "assembly_center_mm": [
+        290.3460076045626,
+        108.58174904942967
+      ]
+    },
+    {
+      "board": "Melemele",
+      "canonical_socket_id": "R1C0",
+      "row": 1,
+      "column": 0,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 1,
+      "assembly_center_mm": [
+        62.34600760456276,
+        146.58174904942976
+      ]
+    },
+    {
+      "board": "Melemele",
+      "canonical_socket_id": "R1C1",
+      "row": 1,
+      "column": 1,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 1,
+      "assembly_center_mm": [
+        100.34600760456274,
+        146.5817490494298
+      ]
+    },
+    {
+      "board": "Melemele",
+      "canonical_socket_id": "R1C6",
+      "row": 1,
+      "column": 6,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 2,
+      "assembly_center_mm": [
+        290.34600760456254,
+        146.58174904942953
+      ]
+    },
+    {
+      "board": "Melemele",
+      "canonical_socket_id": "R1C7",
+      "row": 1,
+      "column": 7,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 2,
+      "assembly_center_mm": [
+        328.34600760456254,
+        146.58174904942953
+      ]
+    },
+    {
+      "board": "Melemele",
+      "canonical_socket_id": "R2C0",
+      "row": 2,
+      "column": 0,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 1,
+      "assembly_center_mm": [
+        62.34600760456276,
+        184.58174904942973
+      ]
+    },
+    {
+      "board": "Melemele",
+      "canonical_socket_id": "R2C7",
+      "row": 2,
+      "column": 7,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 2,
+      "assembly_center_mm": [
+        328.34600760456254,
+        184.5817490494296
+      ]
+    },
+    {
+      "board": "Melemele",
+      "canonical_socket_id": "R3C0",
+      "row": 3,
+      "column": 0,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 3,
+      "assembly_center_mm": [
+        62.34600760456276,
+        222.58174904942976
+      ]
+    },
+    {
+      "board": "Melemele",
+      "canonical_socket_id": "R3C5",
+      "row": 3,
+      "column": 5,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        252.34600760456283,
+        222.5817490494298
+      ]
+    },
+    {
+      "board": "Melemele",
+      "canonical_socket_id": "R3C6",
+      "row": 3,
+      "column": 6,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        290.34600760456254,
+        222.58174904942965
+      ]
+    },
+    {
+      "board": "Melemele",
+      "canonical_socket_id": "R3C7",
+      "row": 3,
+      "column": 7,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        328.34600760456254,
+        222.58174904942965
+      ]
+    },
+    {
+      "board": "Melemele",
+      "canonical_socket_id": "R4C0",
+      "row": 4,
+      "column": 0,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 3,
+      "assembly_center_mm": [
+        62.34600760456278,
+        260.5817490494298
+      ]
+    },
+    {
+      "board": "Melemele",
+      "canonical_socket_id": "R5C0",
+      "row": 5,
+      "column": 0,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 3,
+      "assembly_center_mm": [
+        62.34600760456278,
+        298.58174904942985
+      ]
+    },
+    {
+      "board": "Melemele",
+      "canonical_socket_id": "R5C1",
+      "row": 5,
+      "column": 1,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 3,
+      "assembly_center_mm": [
+        100.34600760456283,
+        298.5817490494297
+      ]
+    },
+    {
+      "board": "Melemele",
+      "canonical_socket_id": "R5C2",
+      "row": 5,
+      "column": 2,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 3,
+      "assembly_center_mm": [
+        138.34600760456271,
+        298.58174904942973
+      ]
+    },
+    {
+      "board": "Melemele",
+      "canonical_socket_id": "R5C3",
+      "row": 5,
+      "column": 3,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 3,
+      "assembly_center_mm": [
+        176.34600760456283,
+        298.58174904942973
+      ]
+    },
+    {
+      "board": "Melemele",
+      "canonical_socket_id": "R5C8",
+      "row": 5,
+      "column": 8,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        366.34600760456277,
+        298.5817490494297
+      ]
+    },
+    {
+      "board": "Melemele",
+      "canonical_socket_id": "R5C9",
+      "row": 5,
+      "column": 9,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        404.3460076045629,
+        298.5817490494297
+      ]
+    },
+    {
+      "board": "Melemele",
+      "canonical_socket_id": "R6C3",
+      "row": 6,
+      "column": 3,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 3,
+      "assembly_center_mm": [
+        176.34600760456283,
+        336.58174904942956
+      ]
+    },
+    {
+      "board": "Melemele",
+      "canonical_socket_id": "R6C4",
+      "row": 6,
+      "column": 4,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 3,
+      "assembly_center_mm": [
+        214.34600760456289,
+        336.58174904942956
+      ]
+    },
+    {
+      "board": "Melemele",
+      "canonical_socket_id": "R6C5",
+      "row": 6,
+      "column": 5,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        252.3460076045628,
+        336.5817490494295
+      ]
+    },
+    {
+      "board": "Melemele",
+      "canonical_socket_id": "R6C6",
+      "row": 6,
+      "column": 6,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        290.34600760456254,
+        336.58174904942945
+      ]
+    },
+    {
+      "board": "Melemele",
+      "canonical_socket_id": "R6C7",
+      "row": 6,
+      "column": 7,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        328.34600760456277,
+        336.58174904942945
+      ]
+    },
+    {
+      "board": "Melemele",
+      "canonical_socket_id": "R6C8",
+      "row": 6,
+      "column": 8,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        366.34600760456277,
+        336.58174904942945
+      ]
+    }
+  ]
+}

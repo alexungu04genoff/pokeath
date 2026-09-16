@@ -1,0 +1,659 @@
+{
+  "board": "Poni",
+  "schema_version": 1,
+  "source_notes": [
+    "Canonical IDs, quadrant ownership, and centers come from output/CURRENT/boards/finished_stl_bounds.json.",
+    "Original visual colors are not encoded as reliable machine-readable gameplay data; values remain explicitly unknown.",
+    "Only Ulaula ordinary/special classification is encoded by existing EFFECT_IDS source data. No effect text is encoded."
+  ],
+  "spaces": [
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R0C4",
+      "row": 0,
+      "column": 4,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 1,
+      "assembly_center_mm": [
+        244.6882129277567,
+        53.09885931558935
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R1C4",
+      "row": 1,
+      "column": 4,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 1,
+      "assembly_center_mm": [
+        244.6882129277567,
+        91.0988593155894
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R1C5",
+      "row": 1,
+      "column": 5,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 2,
+      "assembly_center_mm": [
+        282.68821292775664,
+        91.09885931558932
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R1C6",
+      "row": 1,
+      "column": 6,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 2,
+      "assembly_center_mm": [
+        320.68821292775664,
+        91.09885931558932
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R1C7",
+      "row": 1,
+      "column": 7,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 2,
+      "assembly_center_mm": [
+        358.6882129277565,
+        91.09885931558932
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R1C8",
+      "row": 1,
+      "column": 8,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 2,
+      "assembly_center_mm": [
+        396.68821292775664,
+        91.09885931558932
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R2C3",
+      "row": 2,
+      "column": 3,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 1,
+      "assembly_center_mm": [
+        206.6882129277566,
+        129.09885931558938
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R2C4",
+      "row": 2,
+      "column": 4,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 1,
+      "assembly_center_mm": [
+        244.68821292775664,
+        129.0988593155894
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R2C8",
+      "row": 2,
+      "column": 8,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 2,
+      "assembly_center_mm": [
+        396.6882129277565,
+        129.0988593155893
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R2C9",
+      "row": 2,
+      "column": 9,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 2,
+      "assembly_center_mm": [
+        434.6882129277565,
+        129.0988593155893
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R3C3",
+      "row": 3,
+      "column": 3,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 1,
+      "assembly_center_mm": [
+        206.6882129277566,
+        167.09885931558927
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R3C9",
+      "row": 3,
+      "column": 9,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 2,
+      "assembly_center_mm": [
+        434.6882129277565,
+        167.09885931558912
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R4C3",
+      "row": 4,
+      "column": 3,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 1,
+      "assembly_center_mm": [
+        206.68821292775664,
+        205.09885931558955
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R4C4",
+      "row": 4,
+      "column": 4,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 1,
+      "assembly_center_mm": [
+        244.68821292775664,
+        205.0988593155895
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R4C8",
+      "row": 4,
+      "column": 8,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 2,
+      "assembly_center_mm": [
+        396.6882129277565,
+        205.0988593155893
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R4C9",
+      "row": 4,
+      "column": 9,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 2,
+      "assembly_center_mm": [
+        434.6882129277565,
+        205.0988593155893
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R5C0",
+      "row": 5,
+      "column": 0,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 3,
+      "assembly_center_mm": [
+        92.68821292775664,
+        243.0988593155894
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R5C1",
+      "row": 5,
+      "column": 1,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 3,
+      "assembly_center_mm": [
+        130.6882129277567,
+        243.09885931558932
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R5C2",
+      "row": 5,
+      "column": 2,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 3,
+      "assembly_center_mm": [
+        168.68821292775658,
+        243.09885931558946
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R5C4",
+      "row": 5,
+      "column": 4,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        244.68821292775655,
+        243.09885931558952
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R5C8",
+      "row": 5,
+      "column": 8,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        396.68821292775664,
+        243.09885931558938
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R6C0",
+      "row": 6,
+      "column": 0,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 3,
+      "assembly_center_mm": [
+        92.68821292775664,
+        281.09885931558955
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R6C2",
+      "row": 6,
+      "column": 2,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 3,
+      "assembly_center_mm": [
+        168.6882129277566,
+        281.0988593155894
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R6C4",
+      "row": 6,
+      "column": 4,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        244.68821292775655,
+        281.0988593155892
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R6C7",
+      "row": 6,
+      "column": 7,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        358.6882129277565,
+        281.0988593155891
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R6C8",
+      "row": 6,
+      "column": 8,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        396.68821292775664,
+        281.0988593155891
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R7C0",
+      "row": 7,
+      "column": 0,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 3,
+      "assembly_center_mm": [
+        92.68821292775664,
+        319.0988593155894
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R7C2",
+      "row": 7,
+      "column": 2,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 3,
+      "assembly_center_mm": [
+        168.6882129277566,
+        319.0988593155893
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R7C3",
+      "row": 7,
+      "column": 3,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 3,
+      "assembly_center_mm": [
+        206.6882129277566,
+        319.0988593155893
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R7C4",
+      "row": 7,
+      "column": 4,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        244.68821292775655,
+        319.0988593155893
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R7C7",
+      "row": 7,
+      "column": 7,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        358.6882129277565,
+        319.0988593155893
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R8C0",
+      "row": 8,
+      "column": 0,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 3,
+      "assembly_center_mm": [
+        92.68821292775664,
+        357.09885931558915
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R8C4",
+      "row": 8,
+      "column": 4,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        244.68821292775655,
+        357.0988593155894
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R8C5",
+      "row": 8,
+      "column": 5,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        282.68821292775687,
+        357.0988593155891
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R8C6",
+      "row": 8,
+      "column": 6,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        320.68821292775664,
+        357.0988593155891
+      ]
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_id": "R8C7",
+      "row": 8,
+      "column": 7,
+      "original_visual_color": null,
+      "original_visual_color_status": "unknown_not_encoded_in_machine_readable_project_data",
+      "ordinary_or_special": "unknown",
+      "classification_status": "No ordinary/special mapping is encoded for this board.",
+      "original_effect_identifier": null,
+      "original_effect_text": null,
+      "effect_status": "unknown_not_encoded",
+      "quadrant_ownership": 4,
+      "assembly_center_mm": [
+        358.6882129277565,
+        357.0988593155891
+      ]
+    }
+  ]
+}

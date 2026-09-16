@@ -1,0 +1,27 @@
+{
+  "passed": true,
+  "invented_gameplay_data": false,
+  "boards": [
+    {
+      "board": "Akala",
+      "canonical_socket_count": 29,
+      "appears_exactly_once": true
+    },
+    {
+      "board": "Melemele",
+      "canonical_socket_count": 29,
+      "appears_exactly_once": true
+    },
+    {
+      "board": "Poni",
+      "canonical_socket_count": 36,
+      "appears_exactly_once": true
+    },
+    {
+      "board": "Ulaula",
+      "canonical_socket_count": 33,
+      "appears_exactly_once": true
+    }
+  ],
+  "total_canonical_sockets": 127
+}
